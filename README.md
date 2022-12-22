@@ -43,7 +43,7 @@ Don't worry about getting it all in the first pass; you're welcome to leave some
 - **Budget** - how much money does the WG need (either to spend directly, or to pass on in the form of grants or similar)?
 - **Where will discussions and activities take place?** - the default is for us to make you a mailing list (`your-cool-wg@djangoproject.com`), but if you want to do something else let us know.
   - We suggest synchronous meetings via Meet/Zoom/Whereby/etc at least monthly.
-- **Reporting* - how and how often will the WG report back to the board?
+- **Reporting** - how and how often will the WG report back to the board?
   - For most groups, somewhere between a quarterly and a monthly report will be apropriate. An email summarizing that period's work to the Board is fine for most purposes.
   - Keep this lightweight; don't bog yourself down with onerous reporting requrements. Most WG reports can be just 3-5 quick bullet points.
   
