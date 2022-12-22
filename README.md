@@ -64,8 +64,27 @@ Once the WG is approved, there are a few small bits of process before you can ca
 2. **Spin up the mailing list** or other communication channels. Once again, the Board Liason is the person who can make this happen.
 3. **Schedule and hold your first meeting!**
 
----
+## Changes to Working Groups
 
-TODO:
-- modifying WGs
-- spinning down WGs
+Changes to WG membership are covered in the charter, see above.
+
+Other substantive changes to WG membership require a Board vote. "Substantive" changes are most of what's listed on the charter -- scope of responsibilities, budget, membership decision-making process. Changes to when and how often the goup meets/communicates aren't considered substantive (but please update the charter accordingly).
+
+To make changes to a WG, you can either open a pull request modifying the charter, or create an issue describing the changes (use the "Change an existing WG" template). As with creating a new WG, the Meta-WG will review it first, and then the change will go to a Board vote.
+
+## Shutting down WGs
+
+WGs may be spun down for many reasons. The common ones are that the WG has fulfulled its purpose or is somehow obsolete, or has simply stopped working. If there's a consensus of WG members that the WG has outlived its usefulness in one of these ways, they can shut it down. A majority vote of WG members is not enough to voluntarily shut down the WG (though, if enough members choose to resign, that could bring the membership below numbers required to sustain the group, see below).
+
+There are also several reasons why a WG may be forced to shut down:
+
+- There aren't enough members to sustain the group. A WG must have, at a minimum, two members (Chair and Co-Chair), and one Board member. If membershp falls below those levels, and no replacements can be found, the WG will be automatically shut down. 
+- The WG ceases reporting to the Board. A WG that misses two or more consecutive reporting periods in a row will generally be considered to be defunct and shut down by the Board (exceptions may be made).
+- If the Board believes a WG is no longer functional, for whatever reason, they may vote to shut it down.
+
+The process for spinning down a WG:
+
+- If the Board doesn't already know, inform them that you're shutting down.
+- If possible, issue a final report to the board.
+- Move the charter to the `archived/` directory, and remove the link above.
+- Archive/shut down any mailing lists or other communication channels.
