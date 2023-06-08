@@ -1,4 +1,4 @@
-# DSF Working Groups 
+# DSF Working Groups
 
 **🚧 Work in progress, non-operational 🚧**
 
@@ -16,7 +16,7 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 
 ## Current Working Groups
 
-*[links to all current wg charters go here eventually]*
+_[links to all current wg charters go here eventually]_
 
 ## Forming a new Working Group
 
@@ -24,9 +24,9 @@ If you have an idea for a new Working Group, it's a good idea to discuss it with
 
 ### Proposing a working group
 
-Once you're ready to make a proposal, start the process by creating an issue in this repository. Click "Issues", above, then "New Issue", then select "Propose a new Working Group". This will create a templated issue for you to fill out. 
+Once you're ready to propose a working group, start the process by creating a pull request, adding your new working group's charter. You probably want to use [the provided template](template.md) as a starting point.
 
-Don't worry about getting it all in the first pass; you're welcome to leave some fields as "todo", and come back and edit the issue later to add that info. The information you'll be asked to (eventually) provide is:
+Don't worry about getting it all in the first pass; you're welcome to leave some fields as "todo", and come back and edit the PR later to add that info. The information that needs to be in the charter is:
 
 - **Name** - naming things is hard but we need to call this group something
 - **Scope of responsibilities** - what will the working group do?
@@ -46,13 +46,12 @@ Don't worry about getting it all in the first pass; you're welcome to leave some
 - **Reporting** - how and how often will the WG report back to the board?
   - For most groups, somewhere between a quarterly and a monthly report will be apropriate. An email summarizing that period's work to the Board is fine for most purposes.
   - Keep this lightweight; don't bog yourself down with onerous reporting requrements. Most WG reports can be just 3-5 quick bullet points.
-  
-### Decision-making
-  
-After your proposal is complete, two things will happen:
 
-1. You'll get feedback from the [Meta-WG](XXX) (a Working Group that facilitates the process of Working Groups, how meta) within a week or so. This is designed to help streamline an eventual vote by trying to anticipate questions/comments/concerns the Board might have. The Meta-WG will also let you when the next Board meeting is scheduled, where your proposal will be discussed.
-2. At that next Board meeting, the Board will discuss and vote on your proposal.
+### Decision-making
+
+After your proposal is complete, notify the board, via your board liason, that it's ready to be reviewed.
+
+The board will vote on your working group, and either let you know that it's been approved, or give you feedback.
 
 If your proposal is accepted, see the next section. If it's rejected you'll get some feedback about why. You're welcome to modify your proposal and try again!
 
@@ -60,7 +59,7 @@ If your proposal is accepted, see the next section. If it's rejected you'll get 
 
 Once the WG is approved, there are a few small bits of process before you can call it fully-operational:
 
-1. **Create the WG's formal charter.** This is the same information as requested in the proposal, moved to a document under `charters/`, and linked above. The Board Liason should have access to commit this directly to this repo, or anyone else can create a pull request with that.
+1. **Marge the pull request**, and link the new charter above. The Board Liason should be able to do this.
 2. **Spin up the mailing list** or other communication channels. Once again, the Board Liason is the person who can make this happen.
 3. **Schedule and hold your first meeting!**
 
@@ -68,17 +67,17 @@ Once the WG is approved, there are a few small bits of process before you can ca
 
 Changes to WG membership are covered in the charter, see above.
 
-Other substantive changes to WG membership require a Board vote. "Substantive" changes are most of what's listed on the charter -- scope of responsibilities, budget, membership decision-making process. Changes to when and how often the goup meets/communicates aren't considered substantive (but please update the charter accordingly).
+Other substantive changes to WG membership require a Board vote. "Substantive" changes are most of what's listed on the charter -- scope of responsibilities, budget, membership decision-making process. Changes to when and how often the group meets/communicates aren't considered substantive (but please update the charter accordingly).
 
-To make changes to a WG, you can either open a pull request modifying the charter, or create an issue describing the changes (use the "Change an existing WG" template). As with creating a new WG, the Meta-WG will review it first, and then the change will go to a Board vote.
+To make changes to a WG, open a pull request modifying the charter. If the change is substantive, the the change will go to a Board vote.
 
 ## Shutting down WGs
 
-WGs may be spun down for many reasons. The common ones are that the WG has fulfulled its purpose or is somehow obsolete, or has simply stopped working. If there's a consensus of WG members that the WG has outlived its usefulness in one of these ways, they can shut it down. A majority vote of WG members is not enough to voluntarily shut down the WG (though, if enough members choose to resign, that could bring the membership below numbers required to sustain the group, see below).
+WGs may be spun down for many reasons. The common ones are that the WG has fulfilled its purpose or is somehow obsolete, or has simply stopped working. If there's a consensus of WG members that the WG has outlived its usefulness in one of these ways, they can shut it down. A majority vote of WG members is not enough to voluntarily shut down the WG (though, if enough members choose to resign, that could bring the membership below the numbers required to sustain the group, see below).
 
 There are also several reasons why a WG may be forced to shut down:
 
-- There aren't enough members to sustain the group. A WG must have, at a minimum, two members (Chair and Co-Chair), and one Board member. If membershp falls below those levels, and no replacements can be found, the WG will be automatically shut down. 
+- There aren't enough members to sustain the group. A WG must have, at a minimum, two members (Chair and Co-Chair), and one Board member. If membership falls below those levels, and no replacements can be found, the WG will be automatically shut down.
 - The WG ceases reporting to the Board. A WG that misses two or more consecutive reporting periods in a row will generally be considered to be defunct and shut down by the Board (exceptions may be made).
 - If the Board believes a WG is no longer functional, for whatever reason, they may vote to shut it down.
 
@@ -86,5 +85,5 @@ The process for spinning down a WG:
 
 - If the Board doesn't already know, inform them that you're shutting down.
 - If possible, issue a final report to the board.
-- Move the charter to the `archived/` directory, and remove the link above.
+- Move the charter to the `archive/` directory, and remove the link above.
 - Archive/shut down any mailing lists or other communication channels.
