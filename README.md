@@ -10,8 +10,10 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 
 ## Current Active Working Groups
 
-- [Code of Conduct](active/code-of-conduct.md)
-- [Fellowship](active/fellowship.md)
+- [Code of Conduct](active/code-of-conduct.md) — handles reports of violations to the Django Code of Conduct.
+- [DjangoCon Europe Support](active/dceu.md) — supports the organizers of DjangoCon Europe.
+- [Fellowship](active/fellowship.md) — manages the operation of the Django Fellowship program.
+- [Fundraising](active/fundraising.md) — coordinates fundraising efforts, particularly around corporate and major donations.
 
 ## Forming a new Working Group
 
