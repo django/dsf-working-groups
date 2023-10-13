@@ -17,6 +17,8 @@ The Fellowship Working Group manages the operation of the [Django Fellowship Pro
 
 Board-managed: the DSF Board appoints members of this WG.
 
+Membership is open to volunteers, subject to board approval. [Contact the board](https://www.djangoproject.com/contact/foundation/) to express interest.
+
 ## Budget
 
 The DSF Board sets the Fellowship compensation, but the WG then has the power to select who fills the position.

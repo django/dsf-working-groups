@@ -19,9 +19,13 @@ Write a paragraph or a few bullet points describing the WG here.
 
 ## Future membership
 
-How will decisions on adding/removing members be handled?
+Answer the following questions here:
 
-We suggest picking one of the following:
+- Who is eligible to join? Any volunteer, or are there specific requirements?
+- How do people who want to join sign up / volunteer / express interest?
+- How will decisions on adding/removing members be handled?
+
+For the last question, we suggest picking one of the following:
 
 - Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs. (This is the appropriate model for most WGs).
 - Board-managed: new members may self-nominate, but must be voted in by the Board. The Board must approve changes to the Chair/Co-Chair. (This is the appropriate model for sensitive WGs, such as the Conduct WG, or WGs with large budgets ($thousands/year).)

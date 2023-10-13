@@ -19,7 +19,9 @@ See https://github.com/django/code-of-conduct for full details.
 
 ## Future membership
 
-Self-managed: volunteers are screened and inducted by the current WG membership. The membership likewise elects its own chair (via 50%+ voting). See https://github.com/django/code-of-conduct/blob/main/membership.md for more details.
+Membership is open to volunteers. To volunteer to join the working group, email `conduct@djangoproject.com` and express your interest.
+
+Membership is self-managed: volunteers are screened and inducted by the current WG membership. The membership likewise elects its own chair (via 50%+ voting). See https://github.com/django/code-of-conduct/blob/main/membership.md for more details.
 
 The DSF President is always a member of the CoC WG, and its board liaison.
 

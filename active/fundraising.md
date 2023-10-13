@@ -17,6 +17,8 @@ Delegated responsibilities TBD.
 
 Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
 
+This committee is currently forming and seeking volinteers, including chair and co-chair. 
+
 ## Budget
 
 No allocated funds.
