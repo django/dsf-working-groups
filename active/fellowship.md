@@ -6,11 +6,10 @@ The Fellowship Working Group manages the operation of the [Django Fellowship Pro
 
 ## Initial membership
 
-- Chair: TBD
-- Co-Chair: TBD
+- Chair: Brian Moloney
+- Board liaison: TBD
 - Other members:
   - Andrew Godwin
-  - Brian Moloney
   - Frank Wiles
 
 ## Future membership
