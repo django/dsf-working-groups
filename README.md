@@ -40,8 +40,8 @@ Ultimately, the information that needs to be in the charter is:
   - For most groups, having the group self-manage its membership by approving new members and electing new Chair/Co-Chairs is fine.
   - For more sensitive or powerful committees (e.g. Conduct, Grants), having the Board approve membership changes may be more appropriate.
 - **Budget** - how much money does the WG need (either to spend directly, or to pass on in the form of grants or similar)?
-- **Where will discussions and activities take place?** - the default is for us to make you a mailing list (`your-cool-wg@djangoproject.com`), but if you want to do something else let us know.
-  - We suggest synchronous meetings via Meet/Zoom/Whereby/etc at least monthly.
+- **Where will discussions and activities take place?** - the default is for us to make you a mailing list (`your-cool-wg@djangoproject.com`) or create a private channel (`#your-cool-wg`) in the Django Discord server, but if you want to do something else let us know.
+  - We suggest synchronous meetings via a private voice channel the Django Discord server at least monthly, but again if you are welcome to use something else like Meet/Zoom/Whereby/etc.
 - **Reporting** - how and how often will the WG report back to the board?
   - For most groups, somewhere between a quarterly and a monthly report will be appropriate. An email summarizing that period's work to the Board is fine for most purposes.
   - Keep this lightweight; don't bog yourself down with onerous reporting requirements. Most WG reports can be just 3-5 quick bullet points.
