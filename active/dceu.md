@@ -10,7 +10,7 @@ Delegated responsibilities TBD.
 
 - Chair: TBD
 - Co-Chair: TBD
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Char): TBD
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): TBD
 - Other members: TBD
 
 ## Future membership

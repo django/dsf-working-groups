@@ -14,7 +14,7 @@ Write a paragraph or a few bullet points describing the WG here.
 
 - Chair:
 - Co-Chair:
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Char):
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair):
 - Other members:
 
 ## Future membership
