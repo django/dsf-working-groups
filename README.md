@@ -58,7 +58,7 @@ If your proposal is accepted, see the next section. If it's rejected you'll get 
 
 Once the WG is approved, there are a few small bits of process before you can call it fully-operational:
 
-1. **Marge the pull request**, and link the new charter above. The Board Liason should be able to do this.
+1. **Merge the pull request**, and link the new charter above. The Board Liason should be able to do this.
 2. **Spin up the mailing list** or other communication channels. Once again, the Board Liason is the person who can make this happen.
 3. **Schedule and hold your first meeting!**
 
