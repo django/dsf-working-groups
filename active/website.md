@@ -5,7 +5,7 @@
 This working group will manage Django's official website, **djangoproject.com** on behalf of the Django Software Foundation
 
 The duties of the working group are:
-- Introduce new minor features on the website
+- Introduce new features on the website
 - Maintain and monitor the website 
 - Ensure that information on the website is accurate 
 
