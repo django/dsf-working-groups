@@ -22,10 +22,9 @@ The duties of the working group are:
 
 - Chair: TBA
 - Co-Chair: TBA
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): TBA
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
 - Other members:
     - Jacob Kaplan-Moss
-    - Thibaud Colas
     - Sarah Abderemane
     - Eric Sherman
     - Mark Walker
@@ -41,7 +40,7 @@ The duties of the working group are:
 
 ### Who is eligible to join? Any volunteer, or are there specific requirements?
 
-Members must have interest in Django and must be willing to work with Django. We welcome all experience levels, we also welcome first time contributors. 
+Members must have interest in Django and should be able to work with Django. Most importantly members must be willing to adhere to Django's [Code of Conduct](https://www.djangoproject.com/conduct/) . Members must be well versed with the process of contributing to **djangoproject.com** or at least willing to be guide. We welcome all experience levels, we also welcome first time contributors. 
 
 ### How do people who want to join sign up / volunteer / express interest?
 TBA
