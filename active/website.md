@@ -22,7 +22,7 @@ The duties of the working group are:
 
 - Chair: TBA
 - Co-Chair: TBA
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): TBA
 - Other members:
     - Sarah Abderemane
     - Eric Sherman
