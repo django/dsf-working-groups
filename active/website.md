@@ -24,7 +24,6 @@ The duties of the working group are:
 - Co-Chair: TBA
 - Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
 - Other members:
-    - Jacob Kaplan-Moss
     - Sarah Abderemane
     - Eric Sherman
     - Mark Walker
