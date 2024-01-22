@@ -42,7 +42,7 @@ The duties of the working group are:
 Members must have interest in Django and should be able to work with Django. Most importantly members must be willing to adhere to Django's [Code of Conduct](https://www.djangoproject.com/conduct/) . Members must be well versed with the process of contributing to **djangoproject.com** or at least willing to be guide. We welcome all experience levels, we also welcome first time contributors. 
 
 ### How do people who want to join sign up / volunteer / express interest?
-TBA
+Individuals can express interest by emailing to the working group mailing list at `website-wg@djangoproject.com` 
 
 ### How will decisions on adding/removing members be handled?
 Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
@@ -52,10 +52,10 @@ a member of the group.
 
 
 ## Budget
-TBA
+No allocated budget
 
 ## Comms
 - A mailing list that we'll create, `website-wg@djangoproject.com`
 
 ## Reporting
-TBA
+We'll email a written report to the board every quarter.
