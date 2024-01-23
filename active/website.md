@@ -2,7 +2,7 @@
 
 ## Scope of responsibilities
 
-This working group will manage Django's official website, **djangoproject.com** on behalf of the Django Software Foundation
+This is a replacement of the current maintainer team @django/djangoproject-com-maintainters. The team will own maintenance of the website codebase, and liaise with the @django/ops-team for production infrastructure considerations.
 
 The duties of the working group are:
 - Introduce new features on the website
