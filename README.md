@@ -14,6 +14,7 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 - [DjangoCon Europe Support](active/dceu.md) — supports the organizers of DjangoCon Europe.
 - [Fellowship](active/fellowship.md) — manages the operation of the Django Fellowship program.
 - [Fundraising](active/fundraising.md) — coordinates fundraising efforts, particularly around corporate and major donations.
+- [Social Media](active/social-media.md) — manages Django's official social media profiles.
 
 ## Forming a new Working Group
 
