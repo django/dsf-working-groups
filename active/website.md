@@ -12,7 +12,6 @@ The duties of the working group are:
 
 
 ### Delegated responsibilities:
-- Chair, Co-chair and Board Liaison can make final decision of  sections of the website that might not conform with DSF's CoC.
 - Members can work on bugs
 - Members can tag,label and respond to issues.
 - Member can maintain and monitor the website including updating versions
