@@ -14,7 +14,7 @@ The duties of the working group are:
 ### Delegated responsibilities:
 - Members can work on bugs
 - Members triage the project’s issues and pull requests.
-- Member can maintain and monitor the website including updating versions
+- Member maintain and monitor the website including updating versions
 - Mentor new contributors to the website
 - Chair, Co-Chair and Board Liaison can sign off on new features
 
