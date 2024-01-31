@@ -15,6 +15,7 @@ The duties of the working group are:
 - Members triage the project’s issues and pull requests.
 - Member maintain and monitor the website including updating versions
 - Mentor new contributors to the website
+- Run or support djangoproject.com sessions in DjangoCon sprints.
 - Chair, Co-Chair and Board Liaison can sign off on new features
 
 ## Initial membership
@@ -44,9 +45,9 @@ Members must have interest in Django and should be able to work with Django. Mos
 Individuals can express interest by emailing to the working group mailing list at `website-wg@djangoproject.com` 
 
 ### How will decisions on adding/removing members be handled?
-Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
+Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members. The WG will vote for New Chair/Co-Chairs and decision to appoint will be based on gaining majority votes.
 
-Members join the group for a 2 year term. At the end of this term, they need to opt into staying involved to keep being 
+Members join the group for one year term. At the end of this term, they need to opt into staying involved to keep being 
 a member of the group.
 
 
