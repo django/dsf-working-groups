@@ -40,6 +40,7 @@ Actions to take back to the DSF Board for votes:
   - Cory Zue
   - Jason Judkins
   - Sarah Boyce
+  - Sarah Abderemane
 
 ## Future membership
 
