@@ -40,6 +40,9 @@ The Board will select membership with some high-level goals in mind:
 
 Membership is open to volunteers, subject to board approval. [Contact the board](https://www.djangoproject.com/contact/foundation/) to express interest. Please include a brief explanation of how your background aligns with the goals above.
 
+Members serve a 1-year term, April 1st to February 28/29th, in alignment with the Fellow contracts. At the end of this term, they need to opt into staying involved to keep being
+a member of the group. If any member wishes to leave the group before the end of their term, they can do so without a vote.
+
 ## Budget
 
 - The Board sets the Fellowship compensation (which is adjusted yearly, automatically, to match CPI inflation).
