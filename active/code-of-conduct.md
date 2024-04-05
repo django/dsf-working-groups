@@ -8,14 +8,15 @@ See https://github.com/django/code-of-conduct for full details.
 
 ## Membership
 
-- Chair: Brian Moloney
+<!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
+
+- Chair: None
 - Board Liaison: DSF President (currently Chaim Kirby)
 - Other members:
+  - Jay Miller
+  - Dan Ryan
   - Jeff Triplett
-  - Olumide Bakare
-  - Joseph V. Cardenas
-  - Michael Clark
-  - Tibbs Hefflin
+  - Thibaud Colas
 
 ## Future membership
 
