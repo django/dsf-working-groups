@@ -13,10 +13,10 @@ The duties of the working group are:
 
 ### Delegated responsibilities:
 - Members triage the project’s issues and pull requests.
-- Member maintain and monitor the website including updating versions
-- Mentor new contributors to the website
+- Member maintain and monitor the website including updating versions.
+- Mentor new contributors to the website.
 - Run or support djangoproject.com sessions in DjangoCon sprints.
-- Chair, Co-Chair and Board Liaison can sign off on new features
+- Chair, Co-Chair and Board Liaison can sign off on new features.
 
 ## Initial membership
 
