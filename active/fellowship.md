@@ -4,12 +4,12 @@
 
 The Fellowship Working Group manages the [Django Fellowship Program](https://www.djangoproject.com/fundraising/#fellowship-program). This includes:
 
-- Interviewing candidates for open Fellowship slots and making hiring recommendations to the Board. This includes developing and maintaining interview and selection scripts, exercises, and rubrics.
-- Along with the Fellows themselves, maintaining the job description, outline of duties, and any other similar process documentation for the Fellow role (a "job manual", if you will). By and large these don't currently (as of Spring 2024), so the first group operating under this new charter will be responsible for starting to create this documentation. The Fellows and WG can maintain and update these without explicit Board approval, but should report major changes to the Board for review.
+- Evaluating candidates for open Fellowship slots and making hiring recommendations to the Board. This includes developing and whatever selection scripts, exercises, interviews, and rubrics the WG needs to provide a fair selection process. No particular workflow is mandated by this charter, merely that the WG has _some_ workflow and keeps it documented.
+- Along with the Fellows themselves, maintaining the job description, outline of duties, and any other similar process documentation for the Fellow role (a "job manual", if you will). By and large these don't currently exist (as of April 2024), so the first group operating under this new charter will be responsible for starting to create this documentation. The Fellows and WG can maintain and update these without explicit Board approval, but should report major changes to the Board for review.
 - A designated member of the committee acts as the line manager for active fellows. See [Fellow Management](#fellow-management), below, for details of this role.
-- Acting as an HR committee for Fellows. In the event of a complaint about a Fellow, or if there are performance issues, the Fellowship-WG will investigate, in concert with the [Code of Conduct WG](code-of-conduct.md) if necessary, and present findings and a recommendation to the board for action.
-  - As with the CoC-WG, the Fellowing-WG has the power to unilaterally suspend Fellows, with pay, pending an investigation. This power should only be used in egregious circumstances, where waiting on investigation and/or board action might plausibly be harmful.
-- Acting as an escalation point if a Fellow has a disagreement with their designated manager (or that person isn't available, etc). The escalation path for Fellows is: designated manager -> full Fellowship WG -> Board.
+- Acting as an HR committee for Fellows. In the event of a complaint about a Fellow, if this is a failure to fulfill the responsibilities of the position or around performance, this should be reported to the Fellowship-WG to investigate. The Fellowship-WG will present findings and a recommendation to the board for action. If this is a Code of Conduct issue, this should be reported to the [Code of Conduct WG](code-of-conduct.md) who will involve the Fellow WG if appropriate.
+  - As with the CoC-WG, the Fellowship-WG has the power to unilaterally suspend Fellows, with pay, pending an investigation. This power should only be used in egregious circumstances, where waiting on investigation and/or board action might plausibly be harmful.
+- Acting as an escalation point if a Fellow can't get in touch, or has a disagreement with their designated manager. Fellows can escalate to any other member of the WG directly, to the WG as a whole, or to the DSF Board.
 - Gathering and maintaining statistics on the impact and efficacy of the Fellow program (for use in fundraising, reports to sponsors, etc). See [reporting](#reporting) for a short discussion of this report.
 
 ### Fellow Management
@@ -24,7 +24,7 @@ The designated manager is also the official approver for expenses for Fellows, s
 
 ## Initial membership
 
-Upon adoption of this new charter, the Board will issue an open call for members, recruit, and select membership. We'll follow the guidelines outlined below under [future membership](#future-membership) in selecting this initial group./
+Upon adoption of this new charter, the Board will issue an open call for members, recruit, and select membership. We'll follow the guidelines outlined below under [future membership](#future-membership) in selecting this initial group.
 
 - Chair: TBD
 - Board liaison: TBD
@@ -44,6 +44,8 @@ The Board will select membership with some high-level goals in mind:
 
 Membership is open to volunteers, subject to board approval. [Contact the board](https://www.djangoproject.com/contact/foundation/) to express interest. Please include a brief explanation of how your background aligns with the goals above.
 
+The Board will consult the current Fellows and WG members when making decisions on adding new members.
+
 Members serve a 1-year term, April 1st to March 31st, in alignment with the Fellow contracts. At the end of this term, they need to opt into staying involved to keep being
 a member of the group. If any member wishes to leave the group before the end of their term, they can do so without a vote.
 
@@ -59,10 +61,10 @@ The Fellowship-WG has a private mailing list, and uses the DSF Slack. Fellows th
 
 ## Reporting
 
-The Fellowship WG is required to submit regular reports on the impact and efficacy of the Fellow program.
+The Fellowship-WG is required to submit regular reports on the impact and efficacy of the Fellow program.
 
 Frequency: at least quarterly, with a strong preference for some sort of live "dashboard" (read: Google Sheet) that's updated more regularly for the Board to check any time.
 
-The specifics of what needs to be in here will change over time, and should be an ongoing conversation between Fellows, the Fellowship-WG, and the Board. It can and should change and evolve over time. It should probably should include things like count of tickets triaged and PRs reviewed, along with more qualitivave info like highlights of major features reviewed/shepherded, mentorship of new/existing contributors, talks at conferences, etc. Fellows already record much of this in their weekly reports to the community, so the WG's responsibility is to roll this up into longer-term metrics, highlight themes, and help make sure the information in these reports is useful to the Board and other consumers (sponsors, community members, etc).
+The specifics of what needs to be in here will change over time, and should be an ongoing conversation between Fellows, the Fellowship-WG, and the Board. It can and should change and evolve over time. It probably should include things like count of tickets triaged and PRs reviewed, along with more qualitative info like highlights of major features reviewed/shepherded, mentorship of new/existing contributors, talks at conferences, etc. Fellows already record much of this in their weekly reports to the community, so the WG's responsibility is to roll this up into longer-term metrics, highlight themes, and help make sure the information in these reports is useful to the Board and other consumers (sponsors, community members, etc).
 
-The Fellowship-WG is also expected to report any meta-issues or problems to the board. E.g. things like themes in the kind of problems Fellows are running into, ongoing strategic questions without answers, problems with DSF infrastructure, emerging performance issues, and so forth.
+The Fellowship-WG is also expected to report any meta-issues or problems to the Board. E.g. things like themes in the kind of problems Fellows are running into, ongoing strategic questions without answers, problems with DSF infrastructure, emerging performance issues, and so forth.
