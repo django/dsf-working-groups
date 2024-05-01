@@ -22,12 +22,18 @@ Broadly speaking, this should be thought of as a "supportive" management role, r
 
 The designated manager is also the official approver for expenses for Fellows, subject to the [budget](#budget), see below.
 
-## Initial membership
+## Initial transition
+
+This working group replaces the previous Fellowship Committee, operating under pre-WG rules. Until this WG is fully operational -- i.e. has an approved charter, has all members selected and approved, has a designed manager -- the previous committee will continue to operate.
 
 Upon adoption of this new charter, the Board will issue an open call for members, recruit, and select membership. We'll follow the guidelines outlined below under [future membership](#future-membership) in selecting this initial group.
 
-- Chair: TBD
-- Board liaison: TBD
+The board liaison will act as chair through this transition, util the full membership is approved and all roles filled out.
+
+## Members
+
+- Chair: Jacob Kaplan-Moss (acting)
+- Board liaison: Jacob Kaplan-Moss
 - Designated manager: TBD
 - Other members:
   - TBD
