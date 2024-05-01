@@ -17,6 +17,7 @@ See https://github.com/django/code-of-conduct for full details.
   - Dan Ryan
   - Jeff Triplett
   - Thibaud Colas
+  - Elena Williams
 
 ## Future membership
 
