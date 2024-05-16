@@ -32,7 +32,8 @@ The board liaison will act as chair through this transition, util the full membe
 
 ## Members
 
-- Chair: Jacob Kaplan-Moss (acting)
+- Chair: Jacob Kaplan-Moss (interim)
+- Co-Chair: Katie Katie McLaughlin (interim)
 - Board liaison: Jacob Kaplan-Moss
 - Designated manager: TBD
 - Other members:
