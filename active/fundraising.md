@@ -18,12 +18,10 @@ Delegated responsibilities:
 
 ## Initial membership
 
-- Chair: TBD
-- Co-Chair: TBD
+- Chair: Thibaud Colas
+- Co-Chair: Priya Pahwa
 - Board Liaison: Jacob Kaplan-Moss
 - Other members:
-  - Priya Pahwa
-  - Thibaud Colas
   - Tom Carrick
   - Sarah Abderemane
   - Stephanie Goulet
