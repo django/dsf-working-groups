@@ -8,8 +8,8 @@ Delegated responsibilities TBD.
 
 ## Initial membership
 
-- Chair: TBD
-- Co-Chair: TBD
+- Chair: Tobias Kunze
+- Co-Chair: Raphael Michel
 - Board Liaison: Çağıl Uluşahin Sönmez  
 - Other members:
     Becky Smith
