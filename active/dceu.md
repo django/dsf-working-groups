@@ -27,7 +27,7 @@ The DjangoCon Europe Support working group supports the DSF board in the followi
                          
 ## Future membership
 
-Membership is open to former organizers of DjangoCon EUs. Questions about membership can be directed to european-organizers-support@djangoproject.com.
+Membership is open to former organizers of DjangoCon Europe. Questions about membership can be directed to european-organizers-support@djangoproject.com.
 
 Membership is self-managed: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
 
