@@ -88,6 +88,7 @@ Group members can support maintainers in this effort by:
 - Creating a shared calendar with Django release dates and deadlines.
 - Creating communication channels for package maintainers to coordinate compatibility changes for a specific release.
 - Recommending appropriate automation, such as [django-upgrade](https://github.com/adamchainz/django-upgrade) or how to set up Django pre-releases in Continuous Integration.
+- Proposing additions to the Django release notes with recommendations on how to handle deprecations.
 
 #### Share packaging best practices
 
