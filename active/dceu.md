@@ -39,7 +39,7 @@ No budget needed at this time.
 
 The team internally operates via a Google Group. This is also the primary external point of contact to reach the working group: european-organizers-support@djangoproject.com
 
-The working group is also present in the #europe channel on DSF slack as a public place of discussion.
+The working group uses the #europe channel on DSF's Slack to coordinate internally, with the DSF board and with other DSF working groups.
 
 The team will also set up a collection of data and information, in something like a Google Drive folder. A static informational website might follow at a later date.
 
