@@ -20,9 +20,9 @@ The duties of the working group are:
 
 ## Initial membership
 
-- Chair: TBA
-- Co-Chair: TBA
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): TBA
+- Chair: Sarah Abderemane
+- Co-Chair: Saptak Sengupta
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Sarah Abderemane
 - Other members:
     - Sarah Abderemane
     - Eric Sherman
