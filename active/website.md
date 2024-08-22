@@ -24,7 +24,6 @@ The duties of the working group are:
 - Co-Chair: Saptak Sengupta
 - Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Sarah Abderemane
 - Other members:
-    - Sarah Abderemane
     - Eric Sherman
     - Mark Walker
     - Jason Judkins
