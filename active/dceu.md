@@ -6,7 +6,8 @@ The DjangoCon Europe Support working group supports prospective and current orga
 
 - Provide a point of contact for people interested in organizing the conference to ask questions
 - Provide advice to selected DjangoCon Europe organizers and assist them in staying on track by proactively keeping in touch with them during the process of organizing
-- Debrief with organizers after the event to collect resources and lessons learned that make continuity between conferences easier and provide these to future and current organizers
+- Debrief with organizers after the event
+- Collect resources resources (documentation, budget, contacts, ...) and lessons learned that make continuity between conferences easier and provide these to future and current organizers
 
 The DjangoCon Europe Support working group supports the DSF board in the following ways:
 
