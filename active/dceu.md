@@ -15,8 +15,8 @@ The DjangoCon Europe Support working group supports the DSF board in the followi
 
 ## Membership
 
-- Chair: TBD
-- Co-Chair: TBD
+- Chair: Tobias Kunze
+- Co-Chair: Raphael Michel
 - Board Liaison: Çağıl Uluşahin Sönmez  
 - Other members:
     Becky Smith
@@ -27,7 +27,7 @@ The DjangoCon Europe Support working group supports the DSF board in the followi
                          
 ## Future membership
 
-Membership is open to former organizers of DjangoCon Europe. Questions about membership can be directed to european-organizers-support@djangoproject.com.
+Membership is open to former organizers of DjangoCon Europe. Questions about membership can be directed to european-organizers-support@djangoproject.com. [Contact the board](https://www.djangoproject.com/contact/foundation/) to express interest.
 
 Membership is self-managed: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
 
