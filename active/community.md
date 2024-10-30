@@ -54,7 +54,7 @@ Answer the following questions here:
 ## Budget
 
 - How much money or spending discretion do you need?
-  - None to begin with, however I would expect over time budget to get allocated for supporting the Forum and Discord  server.
+  - None to begin with, however I would expect over time budget to get allocated for supporting the Forum and Discord server.
 - How do you want that money allocated:
   - None to begin with.
 
