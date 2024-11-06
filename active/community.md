@@ -1,4 +1,4 @@
-# WG Charter Template
+# Online Community Working Group
 
 ## Scope of responsibilities
 
