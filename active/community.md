@@ -30,7 +30,6 @@ There is a lot of potential ideas in this space. Part of the WG will be setting 
 
 With regards to Django Software Foundation responsibilities and resources, the group operates with:
 
-- I'm unsure what power's might be delegated, if any. Board members would need to input into this.
 - Admin privileges to members of the forum & Discord or existing admin representive joining as a member.
 
 ## Initial membership
@@ -46,17 +45,17 @@ With regards to Django Software Foundation responsibilities and resources, the g
 Answer the following questions here:
 
 - Who is eligible to join? Any volunteer, or are there specific requirements?
-  - At least a DSF member, ideally already holding an elevated role in the forum or Discord (or other community group)
+  - Anyone can join, but they at least need to be known within the community.
 - How do people who want to join sign up / volunteer / express interest?
-  - Message of the existing group
+  - Send one of the WG members a message on Discord or the Forum
 - How will decisions on adding/removing members be handled?
-  - Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
+  - Direct membership: new members may self-nominate; members will serve for a year minimum with the option to step out after each year. New members will get approved by existing members of the WG.
 
 
 ## Budget
 
 - How much money or spending discretion do you need?
-  - None to begin with, however I would expect over time budget to get allocated for supporting the Forum and Discord server.
+  - None to begin with, however I would expect over time budget to get allocated for supporting the Forum and Discord  server. See below for [ideas](#budget-ideas)
 - How do you want that money allocated:
   - None to begin with.
 
@@ -66,12 +65,22 @@ Where will discussions and activities take place?
 
 Suggestions:
 
-- Private Channel in the Discord Server and private category in the forum.
+- Private Channel in the Discord Server and private category in the forum, possibly also a channel is the DSF slack.
 - This space should be shared with the CoC Commitee or another space for shared comms across platforms.
 
-Meetings: Monthly video call meeting on Discord.
+Meetings: Quarterly video call meeting on Discord.
 
 ## Reporting
 
 How and how often will the WG report back to the board?
-  - Monthly forum post and discord announcement of improvements made to the platforms.
+  - Quarterly forum post and discord announcement of improvements made to the platforms.
+
+
+### Budget ideas
+
+- Training for Moderators & Admins
+- Hosting fees for bots
+- Subscription fees for bots
+- Tools for community management/growth (https://orbit.love)
+- Hosting for the forum
+- Discord Nitro
