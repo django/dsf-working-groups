@@ -14,6 +14,7 @@ Delegated responsibilities:
 
 - Contacting, developing and implementing financial sponsorships with funding sources
 - Clarifying and elaborating on the various creative strategies that funding sources of different sizes and types can use to support Django
+- Management of the djangoproject.com website content and other marketing collaterals relating to fundraising
 
 
 ## Initial membership
