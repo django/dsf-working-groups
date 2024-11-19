@@ -31,12 +31,13 @@ The duties of the working group are:
     - Sanyam Khurana
     - Tobias McNulty
     - Ron Maravanyika
+    - alexgmin Alex
 
 ## Future membership
 
 ### Who is eligible to join? Any volunteer, or are there specific requirements?
 
-Members must have interest in Django and should be able to work with Django. Members must be well versed with the process of contributing to **djangoproject.com** or at least willing to be guide. We welcome all experience levels, we also welcome first time contributors. 
+Members must have interest in Django and should be able to work with Django. Members must go through [contributing](https://github.com/django/djangoproject.com/blob/main/README.rst) to **djangoproject.com** or at least willing to be guide. We welcome all experience levels, we also welcome first time contributors. 
 
 ### How do people who want to join sign up / volunteer / express interest?
 Individuals can express interest by opening a PR to this working group repository, using a template, adding their names in the list of members.
