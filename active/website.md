@@ -44,8 +44,7 @@ Individuals can express interest by opening a PR to this working group repositor
 ### How will decisions on adding/removing members be handled?
 Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members. The WG will vote for New Chair/Co-Chairs and decision to appoint will be based on gaining majority votes.
 
-Members join the group for one year term. At the end of this term, they need to opt into staying involved to keep being 
-a member of the group.
+Members join the group for one year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
 
 ## Budget
 No allocated budget.
