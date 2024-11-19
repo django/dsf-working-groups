@@ -53,7 +53,7 @@ a member of the group.
 ## Budget
 No allocated budget
 
-## Comms
+## Communications
 - Private channel in the DSF slack
 - A mailing list that we'll create, `website-wg@djangoproject.com`
 
