@@ -7,7 +7,6 @@ This is a replacement of the current maintainer team @django/djangoproject-com-m
 The duties of the working group are:
 - Introduce new features on the website
 - Maintain and monitor the website 
-- Ensure that information on the website is accurate 
 - Help to make the website accessible to all
 
 
