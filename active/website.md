@@ -48,7 +48,9 @@ Members join the group for one year term. At the end of this term, they need to 
 a member of the group.
 
 ## Budget
-No allocated budget
+No allocated budget.
+
+Sums may be provided for specific activities (e.g. external consultancy, graphic work, use of platforms, ...) subject to approval by the DSF board.
 
 ## Communications
 - Private channel in the DSF slack
