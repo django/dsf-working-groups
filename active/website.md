@@ -31,7 +31,7 @@ The duties of the working group are:
     - Sanyam Khurana
     - Tobias McNulty
     - Ron Maravanyika
-    - alexgmin Alex
+    - Alex Gómez
 
 ## Future membership
 
