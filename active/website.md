@@ -55,4 +55,7 @@ No allocated budget
 - A mailing list that we'll create, `website-wg@djangoproject.com`
 
 ## Reporting
-We'll email a written report to the board every quarter.
+
+We'll create a changelog file in the repository with all changes, using the https://keepachangelog.com format, whee to track all the regular changes 
+
+For special projects (e.g. theme redesign) we'll choose specific projects or reporting tools.
