@@ -32,8 +32,6 @@ The duties of the working group are:
     - Tobias McNulty
     - Ron Maravanyika
 
-
-
 ## Future membership
 
 ### Who is eligible to join? Any volunteer, or are there specific requirements?
