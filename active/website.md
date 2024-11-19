@@ -49,7 +49,6 @@ Direct membership: new members may self-nominate; the WG will vote (50%+1) to ap
 Members join the group for one year term. At the end of this term, they need to opt into staying involved to keep being 
 a member of the group.
 
-
 ## Budget
 No allocated budget
 
