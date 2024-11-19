@@ -11,7 +11,7 @@ See https://github.com/django/code-of-conduct for full details.
 <!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
 
 - Chair: Dan Ryan
-- Vice-chair: Elena Williams
+- Vice-Chair: Elena Williams
 - Board Liaison: DSF President (currently Chaim Kirby)
 - Other members:
   - Jay Miller
