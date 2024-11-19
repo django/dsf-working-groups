@@ -39,7 +39,7 @@ The duties of the working group are:
 Members must have interest in Django and should be able to work with Django. Members must be well versed with the process of contributing to **djangoproject.com** or at least willing to be guide. We welcome all experience levels, we also welcome first time contributors. 
 
 ### How do people who want to join sign up / volunteer / express interest?
-Individuals can express interest by emailing to the working group mailing list at `website-wg@djangoproject.com` 
+Individuals can express interest by opening a PR to this working group repository, using a template, adding their names in the list of members.
 
 ### How will decisions on adding/removing members be handled?
 Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members. The WG will vote for New Chair/Co-Chairs and decision to appoint will be based on gaining majority votes.
