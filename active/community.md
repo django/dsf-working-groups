@@ -49,7 +49,7 @@ Answer the following questions here:
 - How do people who want to join sign up / volunteer / express interest?
   - Send one of the WG members a message on Discord or the Forum
 - How will decisions on adding/removing members be handled?
-  - Direct membership: new members may self-nominate; members will serve for a year minimum with the option to step out after each year. New members will get approved by existing members of the WG.
+  - Direct membership: new members may self-nominate; members will serve for a one year term. At the end of this term, they need to opt into staying involved to keep being a member of the group. New members will get approved by existing members of the WG.
 
 
 ## Budget
