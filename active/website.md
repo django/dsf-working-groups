@@ -32,6 +32,7 @@ The duties of the working group are:
     - Tobias McNulty
     - Ron Maravanyika
     - Alex Gómez
+    - Storm Heg
 
 ## Future membership
 
