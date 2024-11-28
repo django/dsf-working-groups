@@ -15,13 +15,15 @@ The broad goals of the group are:
   - ensure consistency that our online Django communities are welcoming and safe spaces
 
 - What actions are you proposing the WG be allowed to take directly?
-  - Creation and management of processes related to community platforms.
-    - Adding/removing moderators & other roles
-    - Training for moderators
+  - Creation and management of processes related to community platforms. Examples of these processes include
+    - Proposals for adding/removing moderators & other roles and the adding/removing of roles directly
+    - Training for moderators & other roles as required
     - Ensuring moderation is consistent across teams and platforms
   - Taking ideas from the community to improve the community spaces.
 - Which actions will the WG take back to the Board for votes?
-  - Moving platforms if required
+  - Proposal to trial a new platforms
+  - Proposal to migrate to a new platforms
+  - Proposal to retire an existing platform that is in use
   - Budget to improve existing platforms
 
 There is a lot of potential ideas in this space. Part of the WG will be setting up a process to take ideas and have a backlog of these ideas.
@@ -30,32 +32,33 @@ There is a lot of potential ideas in this space. Part of the WG will be setting 
 
 With regards to Django Software Foundation responsibilities and resources, the group operates with:
 
-- Admin privileges to members of the forum & Discord or existing admin representive joining as a member.
+- A minimum of two members having admin privileges for a single platform while a single member of the group not having admin priveleges to all platforms.
 
 ## Initial membership
 
-- Chair: TBD
+- Chair: Andrew Miller
 - Co-Chair: TBD
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): TBD
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Tom Carrick?
 - Other members:
-  - Andrew Miller
+  - Patryk Bratkowski
 
 ## Future membership
-
-Answer the following questions here:
 
 - Who is eligible to join? Any volunteer, or are there specific requirements?
   - Anyone can join, however they need to active on the community platforms for at least 3 months or nominated by a DSF Individual member.
 - How do people who want to join sign up / volunteer / express interest?
   - Send one of the WG members a message on Discord or the Forum
 - How will decisions on adding/removing members be handled?
-  - Direct membership: new members may self-nominate; members will serve for a one year term. At the end of this term, they need to opt into staying involved to keep being a member of the group. New members will get approved by existing members of the WG.
-
+  - New members may self-nominate.
+  - Members will serve for a one year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
+  - New members will get approved by existing members of the WG.
+  - If any member wishes to leave the group before the end of their term, they can do so by notifying the group.
+  - Members can propose a vote on removing a member from the working group. This needs 50%+1 agreement.
 
 ## Budget
 
 - How much money or spending discretion do you need?
-  - None to begin with, however I would expect over time budget to get allocated for supporting the Forum and Discord  server. See below for [ideas](#budget-ideas)
+  - None to begin with, however I would expect over time budget might get requested for supporting the Forum and Discord server. See below for [ideas](#budget-ideas)
 - How do you want that money allocated:
   - None to begin with.
 
@@ -74,6 +77,7 @@ Meetings: Quarterly video call meeting on Discord.
 
 How and how often will the WG report back to the board?
   - Quarterly forum post and discord announcement of improvements made to the platforms.
+  - Private quarterly report of improvements made to the platforms to the Board
 
 
 ### Budget ideas
