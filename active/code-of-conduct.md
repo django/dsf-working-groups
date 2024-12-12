@@ -12,11 +12,10 @@ See https://github.com/django/code-of-conduct for full details.
 
 - Chair: Dan Ryan
 - Vice-Chair: Elena Williams
-- Board Liaison: DSF President (currently Chaim Kirby)
+- Board Liaison: DSF President (currently Thibaud Colas)
 - Other members:
   - Jay Miller
   - Jeff Triplett
-  - Thibaud Colas
 
 ## Future membership
 
