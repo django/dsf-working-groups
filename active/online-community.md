@@ -22,8 +22,8 @@ The broad goals of the group are:
   - Taking ideas from the community to improve the community spaces.
 
 - Which actions will the WG take back to the Board for votes?
-  - Proposal to trial a new platforms
-  - Proposal to migrate to a new platforms
+  - Proposal to trial a new platform
+  - Proposal to migrate to a new platform
   - Proposal to retire an existing platform that is in use
   - Budget to improve existing platforms
 
