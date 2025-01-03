@@ -20,6 +20,7 @@ The broad goals of the group are:
     - Training for moderators & other roles as required
     - Ensuring moderation is consistent across teams and platforms
   - Taking ideas from the community to improve the community spaces.
+
 - Which actions will the WG take back to the Board for votes?
   - Proposal to trial a new platforms
   - Proposal to migrate to a new platforms
