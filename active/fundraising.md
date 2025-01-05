@@ -27,6 +27,7 @@ Delegated responsibilities:
   - Sarah Abderemane
   - Stephanie Goulet
   - Çağıl Uluşahin Sönmez
+  - Chris Adams
 
 
 ## Future membership
