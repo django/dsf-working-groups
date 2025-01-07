@@ -33,15 +33,18 @@ There is a lot of potential ideas in this space. Part of the WG will be setting 
 
 With regards to Django Software Foundation responsibilities and resources, the group operates with:
 
-- A minimum of two members having admin privileges for a single platform while a single member of the group not having admin priveleges to all platforms.
+- Administrator Privileges on approved community platforms with the following conditions to create redundency and protect the community from any single person holding too much power:
+  - A single member may not have Administrator Privileges to all platforms
+  - A minimum of two members having Administrator Privileges for a single platform
 
 ## Initial membership
 
 - Chair: Andrew Miller
 - Co-Chair: TBD
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Tom Carrick?
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Tom Carrick
 - Other members:
   - Patryk Bratkowski
+  - Natalia Bidart
 
 ## Future membership
 
