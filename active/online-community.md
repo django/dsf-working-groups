@@ -59,7 +59,7 @@ With regards to Django Software Foundation responsibilities and resources, the g
 ## Budget
 
 - How much money or spending discretion do you need?
-  - None to begin with, however I would expect over time budget might get requested for supporting the Forum and Discord server. See below for [ideas](#budget-ideas)
+  - None to begin with, however budget might get requested over time for supporting the Forum and Discord server. See below for [ideas](#budget-ideas)
 - How do you want that money allocated:
   - None to begin with.
 
