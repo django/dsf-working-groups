@@ -35,7 +35,7 @@ With regards to Django Software Foundation responsibilities and resources, the g
 
 - Administrator Privileges on approved community platforms with the following conditions to create redundancy and protect the community from any single person holding too much power:
   - A single member may not have Administrator Privileges to all platforms
-  - A minimum of two members having Administrator Privileges for a single platform
+  - Each platform has a minimum of two members with Administrator Privileges
 
 ## Initial membership
 
