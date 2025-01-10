@@ -45,6 +45,9 @@ With regards to Django Software Foundation responsibilities and resources, the g
 - Other members:
   - Patryk Bratkowski
   - Natalia Bidart
+  - Ben Cardy
+  - (CoC Liason)
+  - (SC Liason?)
 
 ## Future membership
 
