@@ -13,6 +13,7 @@ See https://github.com/django/code-of-conduct for full details.
 - Chair: Dan Ryan
 - Vice-Chair: Elena Williams
 - Board Liaison: DSF President (currently Thibaud Colas)
+- Online Communities WG Liaison: TBD
 - Other members:
   - Jay Miller
   - Jeff Triplett
@@ -24,6 +25,8 @@ Membership is open to volunteers. To volunteer to join the working group, email 
 Membership is self-managed: volunteers are screened and inducted by the current WG membership. The membership likewise elects its own chair (via 50%+ voting). See https://github.com/django/code-of-conduct/blob/main/membership.md for more details.
 
 The DSF President is always a member of the CoC WG, and its board liaison.
+
+The Online Communities WG Liason is a voting member of this working group that is chosen by the OCWG from their members.
 
 ## Budget
 
