@@ -27,7 +27,7 @@ The broad goals of the group are:
   - Proposals to retire an existing platform that is in use
   - Budget requests to improve existing platforms
 
-There is a lot of potential ideas in this space. Part of the WG will be setting up a process to take ideas and have a backlog of these ideas.
+There are a lot of potential ideas in this space. Part of the WG will be setting up a process to take ideas and have a backlog of these ideas.
 
 ### Delegated responsibilities
 
