@@ -42,8 +42,8 @@ With regards to Django Software Foundation responsibilities and resources, the m
 - Chair: Andrew Miller
 - Co-Chair: TBD
 - Board Liaison: Tom Carrick
-- CoC Liason: Dan Ryan
-- SC Liason?:
+- CoC Liaison: Dan Ryan
+- SC Liaison?:
 - Other members:
   - Patryk Bratkowski
   - Natalia Bidart
@@ -73,9 +73,9 @@ Send one of the WG members a message on Discord or the Forum. A form will be mad
 ### Roles in within WG
 
  - Chair/Co-chair: Ideally these two members will be represenatives from separate platforms within the community. This is to ensure the WG remains balanced.
- - The Code of Conduct WG Liason is a voting member of this working group that is chosen by the CoCWG from their members.
- - Board Liason: Must be an active Board member; may be the same as Chair/Co-Chair, may not be the same as CoC WG Liason.
- - SC Liason: Must be an active member of the Steering Council, maybe the same as the Chair/Co-Chair.
+ - The Code of Conduct WG Liaison is a voting member of this working group that is chosen by the CoCWG from their members.
+ - Board Liaison: Must be an active Board member; may be the same as Chair/Co-Chair, may not be the same as CoC WG Liaison.
+ - SC Liaison: Must be an active member of the Steering Council, maybe the same as the Chair/Co-Chair.
 
 ## Budget
 
