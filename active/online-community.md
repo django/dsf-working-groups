@@ -52,7 +52,7 @@ With regards to Django Software Foundation responsibilities and resources, the g
 ## Future membership
 
 - Who is eligible to join? Any volunteer, or are there specific requirements?
-  - Anyone can join, however they need to active on the community platforms for at least 3 months or nominated by a DSF Individual member.
+  - Anyone can join, however they must be active on one of the community platforms for at least 3 months or nominated by a DSF Individual member.
 - How do people who want to join sign up / volunteer / express interest?
   - Send one of the WG members a message on Discord or the Forum
 - How will decisions on adding/removing members be handled?
