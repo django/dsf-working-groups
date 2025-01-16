@@ -12,7 +12,7 @@ The broad goals of the group are:
   - coordinate efforts for training and processes around moderation
   - provide support to improve the platforms to lighten moderation and admin workloads
   - provide training and support to the wider community on how to use the platforms effectively
-  - ensure consistency that our online Django communities are welcoming and safe spaces
+  - ensure that our online communities are welcoming and safe spaces
 
 - What actions are you proposing the WG be allowed to take directly?
   - Creation and management of processes related to community platforms. Examples of these processes include:
