@@ -4,7 +4,7 @@
 
 This group exists to support the official community platforms and those in elevated roles on those platforms.
 
-The [Django Forum](https://forum.djangoproject.com/) and the [Django Discord](https://discord.gg/xcRH6mN4fa) are core parts of the overall community and those that help and moderate these platforms take significant time from their day to help others.
+The [Django Forum](https://forum.djangoproject.com/) and the [Django Discord](https://discord.gg/xcRH6mN4fa) are core parts of the community and those that provide help and moderate these platforms take significant time from their day to help others.
 We can support them through training and taking action to make their lives easier.
 
 The broad goals of the group are:
