@@ -15,7 +15,7 @@ The broad goals of the group are:
   - ensure consistency that our online Django communities are welcoming and safe spaces
 
 - What actions are you proposing the WG be allowed to take directly?
-  - Creation and management of processes related to community platforms. Examples of these processes include
+  - Creation and management of processes related to community platforms. Examples of these processes include:
     - Proposals for adding/removing moderators & other roles and the adding/removing of roles directly
     - Training for moderators & other roles as required
     - Ensuring moderation is consistent across teams and platforms
