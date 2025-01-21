@@ -32,12 +32,12 @@ The board liaison will act as chair through this transition, util the full membe
 
 ## Members
 
-- Chair: Jacob Kaplan-Moss (interim)
-- Co-Chair: Katie McLaughlin (interim)
-- Board liaison: Jacob Kaplan-Moss
-- Designated manager: TBD
+- Chair: TBD
+- Co-Chair: TBD
+- Board liaison: Jeff Triplett
+- Designated manager: Andrew Godwin (interim)
 - Other members:
-  - TBD
+  - Tom Carrick
 
 ## Future membership
 
