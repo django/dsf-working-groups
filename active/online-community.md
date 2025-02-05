@@ -40,12 +40,11 @@ With regards to Django Software Foundation responsibilities and resources, the m
 ## Initial membership
 
 - Chair: Andrew Miller
-- Co-Chair: TBD
+- Co-Chair: Natalia Bidart
 - Board Liaison: Tom Carrick
 - CoC Liaison: Dan Ryan
 - Other members:
   - Patryk Bratkowski
-  - Natalia Bidart
   - Ben Cardy
 
 
