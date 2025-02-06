@@ -31,7 +31,7 @@ There are a lot of potential ideas in this space. Part of the WG will be setting
 
 ### Delegated responsibilities
 
-With regards to Django Software Foundation responsibilities and resources, the members of group are assigned:
+With regards to Django Software Foundation responsibilities and resources, the members of the group are assigned:
 
 - Administrator Privileges on approved community platforms with the following conditions to create redundancy and protect the community from any single person holding too much power.
   - A single member may not have Administrator Privileges on all platforms.
