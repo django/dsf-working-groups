@@ -71,7 +71,7 @@ Send one of the WG members a message on Discord or the Forum. A form will be mad
 ### Roles in within WG
 
  - Chair/Co-chair: Ideally these two members will be represenatives from separate platforms within the community. This is to ensure the WG remains balanced.
- - The Code of Conduct WG Liaison is a voting member of this working group that is chosen by the CoCWG from their members.
+ - The Code of Conduct WG Liaison is a voting member of this working group that is chosen by the CoC WG from their members.
  - Board Liaison: Must be an active Board member; may be the same as Chair/Co-Chair, may not be the same as CoC WG Liaison.
 
 ## Budget
