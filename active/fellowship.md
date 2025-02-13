@@ -38,6 +38,7 @@ The board liaison will act as chair through this transition, util the full membe
 - Designated manager: Andrew Godwin (interim)
 - Other members:
   - Tom Carrick
+  - Carlton Gibson
 
 ## Future membership
 
