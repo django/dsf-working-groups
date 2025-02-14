@@ -29,6 +29,7 @@ Delegated responsibilities:
   - Çağıl Uluşahin Sönmez
   - Chris Adams
   - Catherine Holmes
+  - Abigail Afi Gbadago
 
 ## Future membership
 
