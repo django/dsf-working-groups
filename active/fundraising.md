@@ -28,7 +28,7 @@ Delegated responsibilities:
   - Stephanie Goulet
   - Çağıl Uluşahin Sönmez
   - Chris Adams
-
+  - Catherine Holmes
 
 ## Future membership
 
