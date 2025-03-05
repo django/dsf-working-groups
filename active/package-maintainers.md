@@ -33,21 +33,21 @@ This can be revised in the future as and when the group identifies specific recu
 - Other members:
   - You?
 
-## Eligibility
+The Chair, Co-Chair and Board Liaison manage the membership of the group. The Chair and Co-Chair animate the group’s activities. The Board Liaison relays information between the group and the Django Software Foundation Board.
+
+### Eligibility
 
 Membership is open to all Individual Members of the Django Software Foundation.
 
-## How to join
+### How to join
 
-To join, members must express an interest in the #packages channel of the [Django Discord server](https://discord.gg/xcRH6mN4fa), or reach out to a current group member.
+To join, members must apply via the group’s [membership application form](https://www.example.com/) (to be set up once the group is up and running), sharing their motivation for joining, and expected contributions.
 
-Candidates will be invited to an upcoming Working Group meeting to discuss their interest and potential contributions, after which they will be voted in by current group members (50%+1).
-
-Members will be selected for the group based on their interest in the group’s goals and ability to contribute to them.
+Membership applications are reviewed asynchronously and during meetings, after which they will be voted in by current group members (50%+1). Members will be selected for the group based on their interest in the group’s goals and ability to contribute to them.
 
 ### Membership terms
 
-Members join the group for a 6-month term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
+Members join the group for a 12-month term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
 
 If any member wishes to leave the group before the end of their term, they can do so without a vote.
 
@@ -105,22 +105,20 @@ Those best practices can cover aspects like:
 
 Group members can liaise with organizations dedicated to sharing maintenance efforts, such as [Jazzband](https://jazzband.co/), [Wagtail Nest](https://github.com/wagtail-nest), or [Django Commons](https://github.com/django-commons). Or work directly with packages in need of new maintainers to find new candidates. This can involve:
 
-- Sharing calls for new package maintainers
+- Sharing calls for new package maintainers.
 - Coordinating trusted volunteer open source “roadies” familiar with package ownership transfers.
 - Facilitating participation in mentoring programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) or [Djangonaut Space](https://djangonaut.space/).
 - Providing support for tasks requiring very specific expertise, like funding avenues or vulnerability reports handling.
+- Encouraging working on packages during contributor sprints.
 
-#### Review the package ecosystem
+### Curate training for maintainers
 
-The group can organize periodic reviews of the package ecosystem to assess its health, for other efforts to make more informed decisions.
-
-- Statistics on compatible Django / Python versions, or use of type annotations
-- Package health and popularity metrics
-- [Django Developers Survey](https://lp.jetbrains.com/django-developer-survey-2023/) ([2022](https://lp.jetbrains.com/django-developer-survey-2022/)) questions relevant to package maintenance
+The group could help organize (and fund) training sessions or training material for package maintainers on relevant topics. For example anything relating to sustainability of long-term development, or product / project management (deprecation policies, user research, writing roadmaps, fundraising).
 
 ### Advance the state of the art
 
-The group could also work on more ambitious projects to advance the state of the art in Django package maintenance. For example:
+The group could also work on more ambitious projects to advance the state of the art in Django and Python package maintenance. For example:
 
 - A standard to call for contributors, maintainers, or request funding via pip or a manage.py check
 - Distributed code review for Django packages (see for example [crev](https://github.com/crev-dev/crev/))
+- Participation in convenings such as [PackagingCon](https://packaging-con.org/), [Upstream](https://upstream.live/), etc.
