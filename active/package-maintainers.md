@@ -1,5 +1,7 @@
 # Package Maintainers Working Group
 
+🚧 Draft charter: this working group isn’t currently approved. The proposal requires further work, and an initial membership team.
+
 ## Scope of responsibilities
 
 This group supports package maintainers in the Django ecosystem.
@@ -29,7 +31,7 @@ This can be revised in the future as and when the group identifies specific recu
 
 - Chair: You?
 - Co-Chair: You?
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Thibaud Colas
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): You?
 - Other members:
   - You?
 
