@@ -34,10 +34,10 @@ Accessibility Team members shall be added to a team in the GitHub organization w
 
 ## Initial membership
 
-- Chair:
-- Co-Chair:
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair):
-- Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair):
+- Chair: Tom Carrick
+- Co-Chair: Thibaud Colas
+- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Sarah Abderemane
+- Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Tim Schilling
 - Other members:
   - Eliana Rosselli
   - Marijke Luttekes
@@ -77,7 +77,7 @@ terminated by:
 
 ## Budget
 
-TBD - Maybe we start with qualified reasons to have a budget, like training, tools, etc?
+No budget is required currently. Spending opportunities will be reviewed at least annually. Any changes will be communicated to the
 
 ## Comms
 
@@ -98,4 +98,5 @@ The team will meet on a monthly basis via Google Meet, Zoom or a similar platfor
 
 The team will post [public meeting notes](https://forum.djangoproject.com/t/accessibility-team-meeting-notes/26133)
 to the forum. This serves as the reporting to the DSF Board
-and Steering Council.
+and Steering Council. The team will also produce an annual report
+that will be shared with the Django community.
