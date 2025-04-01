@@ -5,6 +5,7 @@ _This is a template charter for a technical team / working group. You'll need al
 ## Scope of responsibilities
 
 Write a paragraph or a few bullet points describing the WG here.
+Please link any relevant documentation.
 
 - What powers are you asking the board to delegate to you, if any?
 - What powers are you asking the Steering Council to delegate to you, if any?

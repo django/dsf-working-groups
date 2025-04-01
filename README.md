@@ -2,7 +2,7 @@
 
 ## About working groups
 
-Working groups and teams (will be referred to as working groups only) are the primary way work gets done at the DSF. The DSF Board and/or Steering Council delegates certain powers to working groups, which can then act on behalf of the DSF without Board votes/approvals on every specific item. For example, a Grants Working Group could have authority to directly issue financial grants, subject to certain limits, without the need for the full Board to approve each individual grant.
+Working groups and teams (will be referred to as working groups only) are groups of volunteers who work for the DSF or the Django framework itself. The DSF Board and/or Steering Council can delegate certain powers to working groups, which can then act on their behalf without Board/ Steering Council votes/approvals on every specific item. For example, a Grants Working Group could have authority to directly issue financial grants, subject to certain limits, without the need for the full Board to approve each individual grant.
 
 ## Joining a Working Group
 
@@ -18,7 +18,7 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 
 ## Forming a new Working Group
 
-If you have an idea for a new Working Group, it's a good idea to discuss it with some/all of the DSF board and/or Steering Council ahead of a formal proposal. Remember, you'll be proposing that the Board and/or Steering Council delegate some of its powers to this new group, so socializing the proposal before you make it can help make sure your request doesn't come as a surprise. The [list of current board members is here](https://www.djangoproject.com/foundation/), and you can [contact the board as a whole using this form here](https://www.djangoproject.com/contact/foundation/). The [list of current Steering Council members is here](https://www.djangoproject.com/foundation/teams/#steering-council-team), and you can [contact the Steering Council as a whole on the forum with the `@steering_council` tag](https://forum.djangoproject.com).
+If you have an idea for a new Working Group, it's a good idea to discuss it with some/all of the DSF board and/or Steering Council ahead of a formal proposal. Remember, you may propose that the Board and/or Steering Council delegate some of its powers to this new group, so socializing the proposal before you make it can help make sure your request doesn't come as a surprise. The [list of current board members is here](https://www.djangoproject.com/foundation/), and you can [contact the board as a whole using this form here](https://www.djangoproject.com/contact/foundation/). The [list of current Steering Council members is here](https://www.djangoproject.com/foundation/teams/#steering-council-team), and you can [contact the Steering Council as a whole on the forum with the `@steering_council` tag](https://forum.djangoproject.com).
 
 ### Proposing a working group
 
