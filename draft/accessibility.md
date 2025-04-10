@@ -43,25 +43,20 @@ Accessibility Team members shall be added to a team in the GitHub organization w
   - Marijke Luttekes
   - Saptak Sengupta
   - Sarah Abderemane
-  - Thibaud Colas
-  - Tom Carrick
   - Tushar Gupta
 
 ## Future membership
 
-## TODO: Define the part that's similar to the CoC committee
-
 The team shall not have a fixed size, but instead will grow and shrink
 organically as members choose to leave, and when new members are deemed to be
-required by the rest of the team. Membership of the team works similarly to the
-`Code of Conduct Committee <https://github.com/django/code-of-conduct/blob/main/membership.md>`_.
+required by the rest of the team.
 New members shall be chosen from a list of volunteers, or if there is a lack
 of volunteers, an advertisement will be published on the Django website.
 Priority will be given to volunteers who, in no particular order:
 
 - Have disabilities that make using the web and/or web development more
   difficult.
-- Have relevant, positive contributions or expertise in the field.
+- Have relevant contributions or expertise in the field.
 - Have a record of contributing to Django.
 
 Members shall remain in the team for a fixed-term of 9 months, after which
