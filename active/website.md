@@ -31,6 +31,7 @@ The duties of the working group are:
     - Alex Gómez
     - Storm Heg
     - Ülgen Sarıkavak
+    - Adam Zapletal
 
 ## Future membership
 
