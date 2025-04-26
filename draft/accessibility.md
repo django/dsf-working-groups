@@ -38,13 +38,13 @@ as required. These include:
   - contribution guidelines
 - Reviewing code that affects the accessibility of any in-scope projects.
 
-Many of these duties can be undertaken by any contributor, not only by the
-Accessibility Team, however the Accessibility Team coordinates this work
-and can step in where contributors are not available and support those who lack the
+Many of these duties can be undertaken by any contributor. The Accessibility Team
+coordinates this work.
+It can step in where contributors are not available and support those who lack the
 knowledge to do so themselves.
 Accessibility Team members are added to a team in the GitHub organization with
-read access to relevant repositories, so that they may be requested to review pull
-requests, at the discretion of the author, reviewer, or other party.
+read access to relevant repositories. With this they can be requested to review pull
+requests.
 
 
 ## Current members
