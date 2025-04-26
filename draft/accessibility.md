@@ -64,23 +64,24 @@ requests.
 
 ## Future membership
 
-The team does not have a fixed size, but instead will grow and shrink
-organically as members choose to leave, and when new members are deemed to be
-required by the rest of the team.
-New members shall be chosen from a list of volunteers, or if there is a lack
-of volunteers, an advertisement will be published on the Django website.
-Priority will be given to volunteers who, in no particular order:
+The team does not have a fixed size.
+Membership can reduce as members choose to leave.
+The team decides when new members are wanted.
+New members are chosen from a list of volunteers.
+If there are no qualified volunteers the team will place an advertisementon the Django website.
 
-- Have disabilities that make using the web and/or web development more
-  difficult.
-- Have relevant contributions or expertise in the field.
+Priority will be given to volunteers who:
+
+- Have disabilities that make using the web or web development more difficult.
+- Have expertise in accessibility.
 - Have a record of contributing to Django.
 
-Members must opt-in to remain on the team on an annual basis. They may also leave
-on their own volition at any time and for any reason. Membership can also be
-terminated by:
+Members must opt-in to remain on the team on an annual basis.
+They may also leave for any reason.
 
-- Becoming disqualified due to actions taken by the Code of Conduct working group
+Members can also be removed by:
+
+- Becoming disqualified by the Code of Conduct working group
 - A vote of the Steering Council
 - The full consensus of the rest of the Accessibility Team
 
@@ -88,7 +89,7 @@ terminated by:
 ## Budget
 
 No budget is required at this time. This will be reviewed at least annually.
-Any changes to the budget must be approved by the board.
+Any changes to the budget may be requested from the board.
 
 
 ## Communication channels
@@ -102,7 +103,7 @@ The Accessibility team operates in several areas:
 The Accessibility team can be tagged specifically in the following areas:
 
 - The [@accessibility](https://forum.djangoproject.com/groups/accessibility) Forum group tag
-- As a [GitHub team](https://github.com/orgs/django/teams/accessibility) in the Django organization
+- The [@django/accessibility](https://github.com/orgs/django/teams/accessibility) team in the Django organization
 
 The team meets online once per month.
 
