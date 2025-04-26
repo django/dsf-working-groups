@@ -30,9 +30,8 @@ and are to be decided by consensus of the team, with input from the Steering Cou
 as required. These include:
 
 - Deciding on any accessibility guidelines to follow, such as WCAG.
-- Implementing automated testing to find issues, working with the ops
-  team as needed to integrate this into CI processes.
-- Coordinating accessibility audits on all relevant projects.
+- Implementing automated testing to find issues.
+- Coordinating accessibility audits.
 - Coordinating the fixing of accessibility issues and accessibility improvements.
 - Writing and maintaining documentation relating to accessibility. For example:
   - a statement of commitment to accessibility issues
