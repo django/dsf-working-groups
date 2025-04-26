@@ -1,53 +1,73 @@
 # Accessibility Team
 
-This charter supersedes [DEP 11: Accessibility Team](https://github.com/django/deps/blob/main/final/0011-accessibility-team.rst). The Accessibility Team encourages projects maintained by the Django Software Foundation to be accessible to as many people as possible, particularly those with disabilities that make using the web more difficult.
+This charter supersedes [DEP 11: Accessibility Team](https://github.com/django/deps/blob/main/final/0011-accessibility-team.rst).
+The Accessibility Team encourages projects maintained by the Django Software
+Foundation to be accessible to as many people as possible, particularly those
+with disabilities that make using the web more difficult.
+
 
 ## Scope of responsibilities
 
-The remit of the Accessibility Team shall include all user-facing components
-of projects maintained by the Django Software Foundation. This includes but is
-not limited to:
+The scope of the Accessibility Team includes all projects maintained by
+the Django Software Foundation.
 
-- User-facing parts of Django, such as default HTML output in forms and such,
-  and the Django admin and its default theme, HTML, and UI components.
-- All websites and other software projects maintained by the DSF, such as the
-  Django website, projects' documentation, Django Snippets, the issue tracker, etc.
+This includes but is not limited to:
 
-The responsibilities of the Accessibility Team are expected to change over time, and are to be decided by consensus of the team, with input from the Technical Board as required. To begin, several areas have been identified:
+- User-facing parts of Django, such as:
+  -  default HTML output in forms
+  -  the Django admin and its default theme, HTML, and UI components.
+- All websites and other software projects maintained by the DSF, such as:
+  -  the Django website
+  -  the documentation
+  -  Django Snippets
+  -  the issue tracker
+
+The scope also includes Django events and other community projects where accessibility
+is a relevant concern.
+
+The responsibilities of the Accessibility Team are expected to change over time,
+and are to be decided by consensus of the team, with input from the Steering Council
+as required. These include:
 
 - Deciding on any relevant accessibility guidelines to follow, such as WCAG,
   and at which conformance level.
 - Implementing automated testing to catch issues, working with the ops
   team as needed to integrate this into CI processes.
-- Coordinating regular manual accessibility audits on all relevant projects.
-- Coordinating the fixing of accessibility issues and the improvement of the
-  accessibility in general in Django and associated projects.
+- Coordinating accessibility audits on all relevant projects.
+- Coordinating the fixing of accessibility issues and accessibility improvements
 - Writing and maintaining documentation relating to accessibility, such as
   a statement of commitment to accessibility issues, and contribution
   guidelines.
 - Reviewing accessibility fixes, improvements and other tickets that may affect
   accessibility of any relevant project.
 
-Many of these duties can be undertaken by any contributor, not only by the Accessibility Team, however the Accessibility Team exists to coordinate this work and to step in where contributors are not available and support those who lack the knowledge to do so themselves.
-Accessibility Team members shall be added to a team in the GitHub organization with read access to relevant repositories, so that they may be requested to review pull requests, at the discretion of the author, reviewer, or other party.
+Many of these duties can be undertaken by any contributor, not only by the
+Accessibility Team, however the Accessibility Team coordinates this work
+and can step in where contributors are not available and support those who lack the
+knowledge to do so themselves.
+Accessibility Team members are added to a team in the GitHub organization with
+read access to relevant repositories, so that they may be requested to review pull
+requests, at the discretion of the author, reviewer, or other party.
 
 
-## Initial membership
+## Current members
 
 - Chair: Tom Carrick
-- Co-Chair: Thibaud Colas
-- Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair): Sarah Abderemane
-- Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Tim Schilling
+- Co-Chair: Eli Rosselli
+- Steering Council Liaison: Tim Schilling
 - Other members:
-  - Eliana Rosselli
   - Marijke Luttekes
+  - Rahmat Akintola
+  - Sage Abdullah
   - Saptak Sengupta
   - Sarah Abderemane
+  - Thibaud Colas
   - Tushar Gupta
+
 
 ## Future membership
 
-The team shall not have a fixed size, but instead will grow and shrink
+The team does not have a fixed size, but instead will grow and shrink
 organically as members choose to leave, and when new members are deemed to be
 required by the rest of the team.
 New members shall be chosen from a list of volunteers, or if there is a lack
@@ -59,22 +79,22 @@ Priority will be given to volunteers who, in no particular order:
 - Have relevant contributions or expertise in the field.
 - Have a record of contributing to Django.
 
-Members shall remain in the team for a fixed-term of 9 months, after which
-they must opt-in to remain on the team for another term. They may also leave
-on their own volition at any time and for any reason. Membership will also be
+Members must opt-in to remain on the team on an annual basis. They may also leave
+on their own volition at any time and for any reason. Membership can also be
 terminated by:
 
-- Becoming disqualified due to actions taken by the Code of Conduct committee
-  of the Django Software Foundation.
-- A vote of the Steering Council, or full consensus of the rest of the
-  Accessibility Team, if the team is considered too large, the person is not
-  making positive contributions, or any other sound reason.
+- Becoming disqualified due to actions taken by the Code of Conduct working group
+- A vote of the Steering Council
+- The full consensus of the rest of the Accessibility Team
+
 
 ## Budget
 
-No budget is required currently. Spending opportunities will be reviewed at least annually. Any changes will be communicated to the
+No budget is required at this time. This will be reviewed at least annually.
+Any changes to the budget must be approved by the board.
 
-## Comms
+
+## Communication channels
 
 The Accessibility team operates in several areas:
 - [Accessibility Forum category](https://forum.djangoproject.com/c/internals/accessibility/26)
@@ -85,13 +105,14 @@ The Accessibility team operates in several areas:
 The Accessibility team can be tagged specifically in the following areas:
 
 - The [@accessibility](https://forum.djangoproject.com/groups/accessibility) Forum group tag
-- As a [GitHub team](https://github.com/orgs/django/teams/accessibility) in the Django org
+- As a [GitHub team](https://github.com/orgs/django/teams/accessibility) in the Django organization
 
-The team will meet on a monthly basis via Google Meet, Zoom or a similar platform.
+The team meets online on a monthly basis.
+
 
 ## Reporting
 
-The team will post [public meeting notes](https://forum.djangoproject.com/t/accessibility-team-meeting-notes/26133)
-to the forum. This serves as the reporting to the DSF Board
-and Steering Council. The team will also produce an annual report
-that will be shared with the Django community.
+The team posts [public meeting notes](https://forum.djangoproject.com/t/accessibility-team-meeting-notes/26133)
+to the forum. These serve as reports to the DSF Board and Steering Council.
+
+The team produces an annual report that is shared with the Django community.
