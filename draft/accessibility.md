@@ -29,17 +29,15 @@ The responsibilities of the Accessibility Team are expected to change over time,
 and are to be decided by consensus of the team, with input from the Steering Council
 as required. These include:
 
-- Deciding on any relevant accessibility guidelines to follow, such as WCAG,
-  and at which conformance level.
-- Implementing automated testing to catch issues, working with the ops
+- Deciding on any accessibility guidelines to follow, such as WCAG.
+- Implementing automated testing to find issues, working with the ops
   team as needed to integrate this into CI processes.
 - Coordinating accessibility audits on all relevant projects.
-- Coordinating the fixing of accessibility issues and accessibility improvements
-- Writing and maintaining documentation relating to accessibility, such as
-  a statement of commitment to accessibility issues, and contribution
-  guidelines.
-- Reviewing accessibility fixes, improvements and other tickets that may affect
-  accessibility of any relevant project.
+- Coordinating the fixing of accessibility issues and accessibility improvements.
+- Writing and maintaining documentation relating to accessibility. For example:
+  - a statement of commitment to accessibility issues
+  - contribution guidelines
+- Reviewing code that affects the accessibility of any in-scope projects.
 
 Many of these duties can be undertaken by any contributor, not only by the
 Accessibility Team, however the Accessibility Team coordinates this work
