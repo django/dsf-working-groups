@@ -2,8 +2,8 @@
 
 This charter supersedes [DEP 11: Accessibility Team](https://github.com/django/deps/blob/main/final/0011-accessibility-team.rst).
 The Accessibility Team encourages projects maintained by the Django Software
-Foundation to be accessible to as many people as possible, particularly those
-with disabilities that make using the web more difficult.
+Foundation to be accessible to as many people as possible.
+We focus on those with disabilities who find it more challenging to use the web.
 
 
 ## Scope of responsibilities
