@@ -65,8 +65,7 @@ requests.
 ## Future membership
 
 The team does not have a fixed size.
-Membership can reduce as members choose to leave.
-The team decides when new members are wanted.
+The team decides when new members are needed.
 New members are chosen from a list of volunteers.
 If there are no qualified volunteers the team will place an advertisementon the Django website.
 
