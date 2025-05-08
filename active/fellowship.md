@@ -32,12 +32,11 @@ The board liaison will act as chair through this transition, util the full membe
 
 ## Members
 
-- Chair: TBD
+- Chair: Tom Carrick
 - Co-Chair: TBD
 - Board liaison: Jeff Triplett
-- Designated manager: Andrew Godwin (interim)
+- Designated Line Manager: Andrew Godwin (interim)
 - Other members:
-  - Tom Carrick
   - Carlton Gibson
 
 ## Future membership
