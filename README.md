@@ -2,7 +2,7 @@
 
 ## About working groups
 
-Working groups are the primary way work gets done at the DSF. The DSF Board delegates certain powers to working groups, which can then act on behalf of the DSF without Board votes/approvals on every specific item. For example, a Grants Working Group could have authority to directly issue financial grants, subject to certain limits, without the need for the full Board to approve each individual grant.
+Working groups and teams (will be referred to as working groups only) are groups of volunteers who work for the DSF or the Django framework itself. The DSF Board and/or Steering Council can delegate certain powers to working groups, which can then act on their behalf without Board/ Steering Council votes/approvals on every specific item. For example, a Grants Working Group could have authority to directly issue financial grants, subject to certain limits, without the need for the full Board to approve each individual grant.
 
 ## Joining a Working Group
 
@@ -20,11 +20,11 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 
 ## Forming a new Working Group
 
-If you have an idea for a new Working Group, it's a good idea to discuss it with some/all of the DSF board ahead of a formal proposal. Remember, you'll be proposing that the Board delegate some of its powers to this new group, so socializing the proposal before you make it can help make sure your request doesn't come as a surprise. The [list of current board members is here](https://www.djangoproject.com/foundation/), and you can [contact the board as a whole using this form here](https://www.djangoproject.com/contact/foundation/).
+If you have an idea for a new Working Group, it's a good idea to discuss it with some/all of the DSF board and/or Steering Council ahead of a formal proposal. Remember, you may propose that the Board and/or Steering Council delegate some of its powers to this new group, so socializing the proposal before you make it can help make sure your request doesn't come as a surprise. The [list of current board members is here](https://www.djangoproject.com/foundation/), and you can [contact the board as a whole using this form here](https://www.djangoproject.com/contact/foundation/). The [list of current Steering Council members is here](https://www.djangoproject.com/foundation/teams/#steering-council-team), and you can [contact the Steering Council as a whole on the forum with the `@steering_council` tag](https://forum.djangoproject.com).
 
 ### Proposing a working group
 
-Once you're ready to propose a working group, start the process by creating a pull request, adding your new working group's charter. You probably want to use [the provided template](template.md) as a starting point.
+Once you're ready to propose a working group, start the process by creating a pull request, adding your new working group's charter. You probably want to use [the working group template](template.md) or the [team template](team-template.md) as a starting point.
 
 Don't worry about getting it all in the first pass; you're welcome to leave some fields as "todo", and come back and edit the PR later to add that info.
 
@@ -36,8 +36,9 @@ Ultimately, the information that needs to be in the charter is:
   - What actions are you proposing the WG be allowed to take directly?
   - Which actions will the WG take back to the Board for votes?
 - **Initial membership** - who will be in this working group when it's first created?
-  - **Board of liaison** - the person will be the bridge between the DSF board and the working group. It will be someone who will keep the vision of the board in the working group and have the same rights as a member of the working group.  
-  - **Every working group must have at least one active Board member**. It's best if you already know who this is. It's OK if you don't, but if nobody from the Board volunteers, we can't create your working group. We'll refer to this person as the WG's "Board Liaison".
+  - **Board of liaison** - the person will be the bridge between the DSF board and the working group. It will be someone who will keep the vision of the board in the working group and have the same rights as a member of the working group.
+  - **Steering Council liaison** - the person will be the bridge between the Steering Council and the working group. It will be someone who will keep the vision of the Steering Council in the working group and have the same rights as a member of the working group. This is only for teams and is only optional.
+  - **Every working group should have at least one active Board member**. It's best if you already know who this is. It's OK if you don't, but if nobody from the Board volunteers, we can't create your working group. We'll refer to this person as the WG's "Board Liaison". A Board Liason is optional for teams and required for working groups.
   - **Every working group must have a Chair and Co-Chair**, please indicate who that'll be.
   - A good size for a Working Group is around 3-7 people. It's fine if you want to fall outside this range, but you may be asked about the relatively smaller/larger size.
 - **Future membership** - how will membership be handled once the group is operational?
@@ -52,7 +53,7 @@ Ultimately, the information that needs to be in the charter is:
 
 ### Decision-making
 
-After your proposal is complete, notify the board, via your board liaison, that it's ready to be reviewed.
+After your proposal is complete, notify the board and/or Steering Council, via your liaison(s), that it's ready to be reviewed.
 
 The board will vote on your working group, and either let you know that it's been approved, or give you feedback.
 
@@ -81,7 +82,7 @@ WGs may be spun down for many reasons. The common ones are that the WG has fulfi
 There are also several reasons why a WG may be forced to shut down:
 
 - There aren't enough members to sustain the group. A WG must have, at a minimum, two members (Chair and Co-Chair), and one Board member. If membership falls below those levels, and no replacements can be found, the WG will be automatically shut down.
-- The WG ceases reporting to the Board. A WG that misses two or more consecutive reporting periods in a row will generally be considered to be defunct and shut down by the Board (exceptions may be made).
+- The WG ceases reporting. A WG that misses two or more consecutive reporting periods in a row will generally be considered to be defunct and shut down by the Board (exceptions may be made).
 - If the Board believes a WG is no longer functional, for whatever reason, they may vote to shut it down.
 
 The process for spinning down a WG:
