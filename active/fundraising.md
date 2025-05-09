@@ -30,6 +30,7 @@ Delegated responsibilities:
   - Chris Adams
   - Catherine Holmes
   - Abigail Afi Gbadago
+  - Eliana Rosselli
 
 ## Future membership
 
