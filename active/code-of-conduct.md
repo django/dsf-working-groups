@@ -15,7 +15,6 @@ See https://github.com/django/code-of-conduct for full details.
 - Board Liaison: DSF President (currently Thibaud Colas)
 - Online Communities WG Liaison: Natalia Bidart
 - Other members:
-  - Jay Miller
   - Jeff Triplett
 
 ## Future membership
