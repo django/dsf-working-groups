@@ -16,6 +16,7 @@ For DjangoCon events, the working group will:
 - Manage and execute the Call for Organizers process for DjangoCon Europe, providing recommendations to the DSF board for final approval.
 - Assist DjangoCon Europe organizers with event planning, logistics, and execution.
 - Work with DjangoCon Africa organizers to make this event sustainable.
+- Work with the Social Media Working Group to promote events
 
 ## Initial membership
 
