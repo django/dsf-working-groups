@@ -26,7 +26,6 @@ Delegated responsibilities:
   - Tom Carrick
   - Sarah Abderemane
   - Stephanie Goulet
-  - Çağıl Uluşahin Sönmez
   - Chris Adams
   - Catherine Holmes
   - Abigail Afi Gbadago
