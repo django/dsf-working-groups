@@ -24,6 +24,7 @@ The Working Group will pursue this goal in several ways including:
 - Board Liaison: Afi Maame
 - Other members:
    - Eli Rosselli
+   - Priya Pahwa
    - TBD 
 
 ## Future membership
