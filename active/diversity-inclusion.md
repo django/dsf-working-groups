@@ -29,7 +29,7 @@ The Working Group will pursue this goal in several ways including:
 
 ## Future membership
 
-- Folks that would like to join the Diversity and Inclusion Work Group should send an email to the WG `diversity-inclusion@djangoproject.org` introducing themselves. The WG will vote on new member requests verbally at meetings, and the board can take part to the vote.
+- Folks that would like to join the Diversity and Inclusion Work Group should send an email to the WG `diversity-inclusion@djangoproject.com` introducing themselves. The WG will vote on new member requests verbally at meetings, and the board can take part to the vote.
 - The working group adopts the DSF [Code of Conduct](https://www.djangoproject.com/conduct/) .
 - Any actions made against the principles in the Code of Conduct (found by a simple majority of 51%+) will result in the acting person being removed from the working group.
 - Diversity and Inclusion working group voting members are required to confirm their intent to continue participating in the Working Group within one month of a new DSF Board election. This will be led by chair/vice-chair. If there is no response within two weeks, then the individual is automatically removed.
@@ -43,7 +43,7 @@ The Working Group will pursue this goal in several ways including:
 
 ## Comms
 
-- The team will communicate via the `diversity-inclusion-wg@djangoproject.org` mailing list, through Discord and Slack.
+- The team will communicate via the `diversity-inclusion-wg@djangoproject.com` mailing list, through Discord and Slack.
 - If needed, conference calls may be set up via Google Meet, Microsoft Teams or Zoom.
 - The method of voting on projects and proposals will be determined by the working group.
 - Preferred method of voting will be electronically (email or chat) and the vote results will be reported via email to the board in the monthly report.
