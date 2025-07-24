@@ -53,14 +53,16 @@ requests.
 - Co-Chair: Eli Rosselli
 - Steering Council Liaison: Tim Schilling
 - Other members:
-  - Marijke Luttekes
   - Rahmat Akintola
   - Sage Abdullah
   - Saptak Sengupta
   - Sarah Abderemane
   - Thibaud Colas
-  - Tushar Gupta
 
+Alumni: 
+
+- Marijke Luttekes
+- Tushar Gupta
 
 ## Future membership
 
