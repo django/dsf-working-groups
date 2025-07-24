@@ -47,7 +47,7 @@ read access to relevant repositories. With this they can be requested to review 
 requests.
 
 
-## Current members
+## Membership
 
 - Chair: Tom Carrick
 - Co-Chair: Eli Rosselli
@@ -59,7 +59,7 @@ requests.
   - Sarah Abderemane
   - Thibaud Colas
 
-Alumni: 
+### Alumni
 
 - Marijke Luttekes
 - Tushar Gupta
