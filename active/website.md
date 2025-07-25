@@ -32,6 +32,7 @@ The duties of the working group are:
     - Storm Heg
     - Ülgen Sarıkavak
     - Adam Zapletal
+    - Baptiste Mispelon
 
 ## Future membership
 
