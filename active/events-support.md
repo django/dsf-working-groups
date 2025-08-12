@@ -28,7 +28,7 @@ Current members:
 - Co-Chair: David Vaz
 - Board Liaison: Thibaud Colas
 - Other members:
-  - You?
+  - Theresa Seyram Agbenyegah
 
 ## Future membership
 
