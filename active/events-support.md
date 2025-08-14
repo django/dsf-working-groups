@@ -13,7 +13,7 @@ The group supports organizers of Django-related events globally, including Djang
 For DjangoCon events, the working group will:
 
 - Liaise with DEFNA (Django Events Foundation North America) who oversee DjangoCon US.
-- Manage and execute the Call for Organizers process for DjangoCon Europe, providing recommendations to the DSF board for final approval.
+- Manage and execute the Call for Organizers process for DjangoCon Europe, providing the DSF board with both a non-binding list of general criteria AND reviews of concrete proposals.
 - Assist DjangoCon Europe organizers with event planning, logistics, and execution.
 - Work with DjangoCon Africa organizers to make this event sustainable.
 - Work with the Social Media Working Group to promote events
