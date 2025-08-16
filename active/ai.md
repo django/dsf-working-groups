@@ -16,9 +16,7 @@ We encourage experimentation, and responsible use of AI (ethics, safety features
 
 The scope of the AI Team is expected to change over time, and is to be decided by consensus of the team, with input from the Steering Council as required.
 
-\[TBC&nbsp; - could add examples of how the scope could evolve?\]
-
-Many of these activities can be undertaken by any contributor. The AI Team coordinates this work. It can step in where contributors are not available and support those who lack the knowledge to do so themselves.&nbsp;
+Many of these activities can be undertaken by any contributor. The AI Team coordinates this work. It can step in where contributors are not available and support those who lack the knowledge to do so themselves.
 
 ## Membership
 
@@ -63,7 +61,7 @@ The AI team operates in several areas:
 
 - Public #ai channel on [Django Discord server](https://chat.djangoproject.com/)
 - TBC Forum category
-- Private #ai-team channel on [Django Discord server](https://chat.djangoproject.com/)
+- Private #ai-team channel on [Django Discord server](https://chat.djangoproject.com/) or on the DSF Slack workspace
 - A private Google Drive folder and Group in the DSF Google workspace
 
 The AI team can be tagged specifically in the following areas:
@@ -78,3 +76,19 @@ The team meets online once per month.
 The team posts public meeting notes to the forum. These serve as reports to the DSF Board and Steering Council.
 
 The team produces an annual report that is shared with the Django community.
+
+## Appendix
+
+### Group activities
+
+As an illustration of the group’s remit, here are possible activities members could take part in.
+
+- Marketing: Django as the go-to for AI apps
+- Django guidelines for LLMs
+- Automated code review
+- Understanding how to deal with AI slop contributions
+- Dynamic learning quiz or tutor for Django learners
+- Boilerplate code generation with prompts for `startproject` / `startapp`
+- Vector search in the Django docs
+- Exploring modern agent-based workflows
+- Reviewing the energy use of AI
