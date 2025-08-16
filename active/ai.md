@@ -31,6 +31,7 @@ Many of these activities can be undertaken by any contributor. The AI Team coord
   - Jeff Triplett
   - Paolo Melchiorre
   - Tom Carrick
+  - Lilian
   - You?
 
 ### Alumni
