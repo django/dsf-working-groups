@@ -69,7 +69,7 @@ requests.
 The team does not have a fixed size.
 The team decides when new members are needed.
 New members are chosen from a list of volunteers.
-If there are no qualified volunteers the team will place an advertisementon the Django website.
+If there are no qualified volunteers the team will place an advertisement on the Django website.
 
 Priority will be given to volunteers who:
 
