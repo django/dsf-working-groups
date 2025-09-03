@@ -86,7 +86,7 @@ As an illustration of the group’s remit, here are possible activities members 
 - Marketing: Django as the go-to for AI apps
 - Django guidelines for LLMs
 - Automated code review
-- Understanding how to deal with AI slop contributions
+- Understanding how to deal with AI-led contributions (AI slop and other contributions with little human involvement)
 - Dynamic learning quiz or tutor for Django learners
 - Boilerplate code generation with prompts for `startproject` / `startapp`
 - Vector search in the Django docs
