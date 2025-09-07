@@ -38,6 +38,8 @@ Many of these activities can be undertaken by any contributor. The AI Team coord
 
 The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.
 
+If you are interested in joining, please use our form: [Apply to join the AI team](https://forms.gle/s6xUcaZ17QHQfhxJA).
+
 Priority will be given to volunteers who:
 
 - Have expertise with AI.
@@ -66,8 +68,8 @@ The AI team operates in several areas:
 
 The AI team can be tagged specifically in the following areas:
 
-- [@django/ai](https://github.com/orgs/django/teams/ai) team in the Django organization
-- ?
+- `@django/ai` team in the Django organization
+- Other options TBC
 
 The team meets online once per month.
 
