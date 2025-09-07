@@ -29,13 +29,15 @@ Current members:
 - Board Liaison: Thibaud Colas
 - Other members:
   - Theresa Seyram Agbenyegah
+  - Benjamin Balder Bach
+  - You?
 
 ## Future membership
 
 Membership is open to community members who are interested in supporting Django events. While experience organizing Django conferences and events is valuable, it is not strictly required. We’re looking for members with diverse backgrounds and experiences, that can respond to the needs of event organizers worldwide.
 
 - Members join the group for a term of 12 months. At the end of this term, they need to opt into staying involved to keep being a member of the group.
-- Individuals can self-nominate with the [Events Support Working Group application form](https://docs.google.com/forms/d/e/1FAIpQLSeq_kbsnvvTW2Tkk1cUsCOk3CJNoBbT7HANM6ZUo8t38PieLQ/viewform?usp=dialog).
+- Individuals can self-nominate with the [Apply to join the Events support WG](https://docs.google.com/forms/d/e/1FAIpQLSeq_kbsnvvTW2Tkk1cUsCOk3CJNoBbT7HANM6ZUo8t38PieLQ/viewform?usp=dialog).
 - Membership is self-managed: The working group will vote (50%+1) to approve or deny new members.
 - The working group will directly vote on new Chair/Co-Chair (50%+1).
 - The Chair / Co-Chair will be responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities.
