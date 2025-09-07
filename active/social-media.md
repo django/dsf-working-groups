@@ -51,13 +51,7 @@ Individual Member.
 
 ### How do people who want to join sign up / volunteer / express interest?
 
-A form will be made available in a public space (once created this will be linked to here also).
-
-This form will include questions confirming:
-- their DSF membership
-- why they want to join
-- what experience and skills they bring to the role
-- links to their social media profiles
+To join, use our form: [Apply to join the Social media working group](https://forms.gle/vmhftHhDSyLKQKj66)
 
 ### How will decisions on adding/removing members be handled?
 
