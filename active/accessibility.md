@@ -104,7 +104,7 @@ The Accessibility team operates in several areas:
 The Accessibility team can be tagged specifically in the following areas:
 
 - The [@accessibility](https://forum.djangoproject.com/groups/accessibility) Forum group tag
-- The [@django/accessibility](https://github.com/orgs/django/teams/accessibility) team in the Django organization
+- The `@django/accessibility` team in the Django organization
 
 The team meets online once per month.
 
