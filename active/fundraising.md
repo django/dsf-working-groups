@@ -35,7 +35,7 @@ Delegated responsibilities:
 
 Direct membership: new members may self-nominate; the WG will vote (50%+1) to approve/deny new members; the WG will directly vote on new Chair/Co-Chairs.
 
-This committee is currently forming and seeking volunteers, including chair and co-chair. 
+To join, use our form: [Apply to join the Fundraising working group](https://forms.gle/JEKAUYTbcnGQCwFk9)
 
 ### Navigating Conflicts of Interest
 The Fundraising Working Group adheres to the [Django Software Foundation Conflict of Interest Policy](https://www.djangoproject.com/foundation/conflict-of-interest/) and follows all procedures outlined within it. This includes but is not limited to procedures related to disclosure, resolution, and reporting of conflicts of interest. 
