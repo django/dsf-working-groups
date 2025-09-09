@@ -94,3 +94,4 @@ As an illustration of the group’s remit, here are possible activities members 
 - Improved support for using the Django docs with AI, potentially including on-site vector search and llm-friendly docs formats (e.g. markdown files or `llms.txt`)
 - Exploring modern agent-based workflows
 - Reviewing the energy use of AI
+- Adding context-aware chatbots to the Django docs site or Discord
