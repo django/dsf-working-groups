@@ -91,6 +91,6 @@ As an illustration of the group’s remit, here are possible activities members 
 - Understanding how to deal with AI-led contributions (AI slop and other contributions with little human involvement)
 - Dynamic learning quiz or tutor for Django learners
 - Boilerplate code generation with prompts for `startproject` / `startapp`
-- Vector search in the Django docs
+- Improved support for using the Django docs with AI, potentially including on-site vector search and llm-friendly docs formats (e.g. markdown files or `llms.txt`)
 - Exploring modern agent-based workflows
 - Reviewing the energy use of AI
