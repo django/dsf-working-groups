@@ -8,7 +8,7 @@ The scope of the AI Team includes:
 
 - Supporting AI adoption by Django users to create AI/ML products
 - Improvements to AI coding capabilities for developers
-- Considering how AI tools can be used for Django core
+- Considering how AI tools can be used for Django core and in the Django ecosystem
 
 We encourage experimentation, and responsible use of AI (ethics, safety features, guardrails, carbon footprint).
 
