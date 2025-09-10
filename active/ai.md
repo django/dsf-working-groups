@@ -6,11 +6,11 @@ The Artificial Intelligence Team encourages thoughtful adoption of Artificial In
 
 The scope of the AI Team includes:
 
-- Supporting AI adoption by Django users to create AI/ML products
-- Improvements to AI coding capabilities for developers
-- Considering how AI tools can be used for Django core and in the Django ecosystem
+- Making it easier to build AI/ML products with Django without compromising on ethical, safety, social responsibility fundamentals
+- Improvements to AI coding capabilities for developers, that meet responsible AI guidelines on security, copyright
+- Considering how AI tools can be used and mis-used for Django core and in the Django ecosystem
 
-We encourage experimentation, and responsible use of AI (ethics, safety features, guardrails, carbon footprint).
+We coordinate AI enthusiasts and skeptics who want to support the Django project and community. We encourage experimentation that is compatible with responsible use of AI (ethics, safety features, guardrails, environmental footprint).
 
 ---
 
