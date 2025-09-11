@@ -24,6 +24,8 @@ The group has a small initial membership, with the goal of expanding to 7-10 mem
 
 Current members:
 
+<!-- Keep in sync with https://www.djangoproject.com/admin/members/team/10/change/ -->
+
 - Chair: Thibaud Colas
 - Co-Chair: David Vaz
 - Board Liaison: Thibaud Colas
