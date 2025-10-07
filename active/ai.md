@@ -1,28 +1,39 @@
-# AI Team
+# AI research working group
 
-The Artificial Intelligence Team encourages thoughtful adoption of Artificial Intelligence by Django users and developers.
+The Artificial Intelligence working group researches opportunities and challenges that come from adoption of Artificial Intelligence by Django users and developers.
 
 ## Scope of responsibilities
 
-The scope of the AI Team includes:
+The group is a one-off research project of four months to scope any future work relating to AI. Within this one-off project, the group does coordinated research with AI enthusiasts and skeptics who want to support the Django project and community in navigating the impact of AI. We consider in particular impacts in areas relating to the Django Software Foundation’s goals:
 
-- Making it easier to build AI/ML products with Django without compromising on ethical, safety, social responsibility fundamentals
-- Improvements to AI coding capabilities for developers, that meet responsible AI guidelines on security, copyright
+> - Support development of Django by sponsoring sprints, meetups, gatherings and community events.
+> - Promote the use of Django among the World Wide Web development community.
+> - Protect the intellectual property and the framework's long-term viability.
+> - Advance the state of the art in Web development.
+
+This coordinated research activity will involve:
+
+- Discussions with other [teams and working groups](https://www.djangoproject.com/foundation/teams/).
+- Surveying or otherwise gathering input from the wider Django community.
+- Desk research on specific topics of interest, determined by the group based on community input.
+- Producing reports and recommendations for the DSF Board, Steering Council, and wider community.
+
+We expect to report on three specific areas where AI is likely to have a significant impact on Django and its community:
+
+- Building AI/ML products with Django
+- Improvements to AI coding capabilities for developers
 - Considering how AI tools can be used and mis-used for Django core and in the Django ecosystem
 
-We coordinate AI enthusiasts and skeptics who want to support the Django project and community. We encourage experimentation that is compatible with responsible use of AI (ethics, safety features, guardrails, environmental footprint).
+We want in particular to explore AI usage that is broadly compatible with the Django’s community existing values and principles (meeting standards of social responsibility, sustainability, safety, ethics).
 
 ---
 
-The scope of the AI Team is expected to change over time, and is to be decided by consensus of the team, with input from the Steering Council as required.
-
-Many of these activities can be undertaken by any contributor. The AI Team coordinates this work. It can step in where contributors are not available and support those who lack the knowledge to do so themselves.
+Many of these activities can be undertaken by any contributor. The AI working group coordinates this work, to produce research that has a broader coverage and ultimately a broader impact than individual contributors could achieve.
 
 ## Membership
 
 - Chair: Thibaud Colas
 - Co-Chair: Sheena
-- Steering Council Liaison: TBC (optional)
 - Board Liaison: TBC (optional)
 - Other members:
   - Jan Gondol
@@ -36,62 +47,45 @@ Many of these activities can be undertaken by any contributor. The AI Team coord
 
 ## Future membership
 
-The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.
+As a time-boxed research project, we expect to be looking for a high number of contributors soon after the group is formed: 20-30. We will then only recruit more members for specific roles fundamental to the group’s success (facilitators, researchers with specific expertise, analysts, writers).
 
-If you are interested in joining, please use our form: [Apply to join the AI team](https://forms.gle/s6xUcaZ17QHQfhxJA).
+If you are interested in joining, please use our form: [Apply to join the AI working group](https://forms.gle/s6xUcaZ17QHQfhxJA).
 
 Priority will be given to volunteers who:
 
 - Have expertise with AI.
 - Have a record of contributing to Django.
 
-Members must opt-in to remain on the team on an annual basis. They may also leave for any reason.
+Members may leave at any time.
 
 Members can also be removed by:
 
 - Becoming disqualified by the Code of Conduct working group
 - A vote of the Steering Council
-- The vote of a 50% + 1 majority of the rest of the AI Team
+- The vote of a 50% + 1 majority of the rest of the group
 
 ## Budget
 
-No budget is required at this time. This will be reviewed at least annually. Any changes to the budget may be requested from the board.
+No budget is required at this time.
 
 ## Communication channels
 
-The AI team operates in several areas:
+The AI working group operates in several areas:
 
 - Public #ai channel on [Django Discord server](https://chat.djangoproject.com/)
 - TBC Forum category
-- Private #ai-team channel on [Django Discord server](https://chat.djangoproject.com/) or on the DSF Slack workspace
+- Private channel on [Django Discord server](https://chat.djangoproject.com/) or on the DSF Slack workspace
 - A private Google Drive folder and Group in the DSF Google workspace
 
-The AI team can be tagged specifically in the following areas:
+The AI working group can be tagged specifically in the following areas:
 
-- `@django/ai` team in the Django organization
+- `@django/ai` in the Django organization
 - Other options TBC
 
-The team meets online once per month.
+The group meets online once per month.
 
 ## Reporting
 
-The team posts public meeting notes to the forum. These serve as reports to the DSF Board and Steering Council.
+The group posts public meeting notes to the forum.
 
-The team produces an annual report that is shared with the Django community.
-
-## Appendix
-
-### Group activities
-
-As an illustration of the group’s remit, here are possible activities members could take part in.
-
-- Marketing: Django as the go-to for AI apps
-- Django guidelines for LLMs
-- Automated code review
-- Understanding how to deal with AI-led contributions (AI slop and other contributions with little human involvement)
-- Dynamic learning quiz or tutor for Django learners
-- Boilerplate code generation with prompts for `startproject` / `startapp`
-- Improved support for using the Django docs with AI, potentially including on-site vector search and llm-friendly docs formats (e.g. markdown files or `llms.txt`)
-- Exploring modern agent-based workflows
-- Reviewing the energy use of AI
-- Adding context-aware chatbots to the Django docs site or Discord
+At the conclusion of its four-month term, the group will release a final report that is shared with the Django community.
