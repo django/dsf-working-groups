@@ -14,6 +14,7 @@ See https://github.com/django/code-of-conduct for full details.
 - Elena Williams, Vice-Chair
 - Ariane Djeupang
 - Jeff Triplett
+- Natalia Bidart, Online Communities WG Liason
 - Priya Pahwa
 - Thibaud Colas, DSF Board President and board liaison
 
@@ -21,11 +22,11 @@ See https://github.com/django/code-of-conduct for full details.
 
 Membership is open to volunteers. To volunteer to join the working group, email `conduct@djangoproject.com` and express your interest.
 
-Membership is self-managed: volunteers are screened and inducted by the current WG membership. The membership likewise elects its own chair (via 50%+ voting). See https://github.com/django/code-of-conduct/blob/main/membership.md for more details.
+Membership is self-managed: volunteers are screened and inducted by the current WG membership. The membership also elects its own chair (via a 50%+1 vote). See https://github.com/django/code-of-conduct/blob/main/membership.md for more details.
 
-The DSF President is always a member of the CoC WG, and its board liaison.
+The DSF President is always a member of the CoC WG and its board liaison.
 
-The Online Communities WG Liason is a voting member of this working group that is chosen by the OCWG from their members.
+The Online Communities WG (OCWG) appoints their own Liaison.
 
 ## Budget
 
