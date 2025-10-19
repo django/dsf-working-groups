@@ -17,6 +17,7 @@ See https://github.com/django/code-of-conduct for full details.
 - Natalia Bidart, Online Communities WG Liason
 - Priya Pahwa
 - Thibaud Colas, DSF Board President and board liaison
+- Natalia Bidart, liason for Online Communities working group
 
 ## Future membership
 
