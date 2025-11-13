@@ -34,7 +34,7 @@ Many of these activities can be undertaken by any contributor. The AI working gr
 
 - Chair: Thibaud Colas
 - Co-Chair: Sheena
-- Board Liaison: TBC (optional)
+- Board Liaison: Afi
 - Other members:
   - Jan Gondol
   - Jeff Triplett
