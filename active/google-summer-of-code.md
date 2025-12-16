@@ -10,6 +10,7 @@ Delegated responsibilities:
 - Communicate and coordinate with GSoC officials on behalf of the Django community.
 - Identify projects and mentors for Django projects across the community.
 - Communicate and coordinate with prospective mentees and mentors.
+- Communicate and coordinate with Django community regarding GSoC.
 
 ## Initial membership
 
