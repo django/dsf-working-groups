@@ -10,6 +10,9 @@ Want to help out? Yay! Each working group's charter, linked below, spells out th
 
 ## Current Active Working Groups
 
+- [Accessibility](active/accessibility.md) — encourages projects maintained by the Django Software
+Foundation to be accessible to as many people as possible.
+- [Artificial Intelligence](active/ai.md) — researches opportunities and challenges that come from adoption of Artificial Intelligence by Django users and developers.
 - [Code of Conduct](active/code-of-conduct.md) — handles reports of violations to the Django Code of Conduct.
 - [Events support](active/events-support.md) — supports organizers of Django-related events globally, including DjangoCon conferences.
 - [Fellowship](active/fellowship.md) — manages the operation of the Django Fellowship program.
