@@ -42,7 +42,7 @@ The Fundraising Working Group adheres to the [Django Software Foundation Conflic
 
 ## Budget
 
-The board wil be asked for funds as needed.
+The board will be asked for funds as needed.
 
 ## Comms
 
