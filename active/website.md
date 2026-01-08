@@ -32,6 +32,7 @@ The duties of the working group are:
     - Ülgen Sarıkavak
     - Adam Zapletal
     - Baptiste Mispelon
+    - Johanan Oppong Amoateng
 
 ## Future membership
 
