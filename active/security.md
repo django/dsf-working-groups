@@ -5,7 +5,8 @@
 The security team is responsible for [Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/). This includes:
 
 - Reviewing security reports via security@djangoproject.com
-- Evaluating and patching confirmed security issues
+- Evaluating and developing fixes for confirmed security issues
+- Applying, backporting and releasing those fixes as patches and Django releases
 - Communicating with reporters
 - Communicating with the public about security releases
 - Communicating with operating-system vendors and other distributors of Django
@@ -52,13 +53,14 @@ Members can also be removed by:
 
 ### Membership requirements
 
-Members should possess some  knowledge of the following topics, but not necessarily all of them.
+Members should possess some knowledge in most of the following topics:
 
 - Building Django applications
 - Contributing to Django
 - Web applications
 - Web security
 - Software security
+- Software performance
 
 ### How to join
 
