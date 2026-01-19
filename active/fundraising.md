@@ -4,17 +4,21 @@
 
 This working group coordinates fundraising efforts, particularly around corporate and major donations.
 
-The goals of the group are:
+Working group goals:
 
-- Acquire funding to secure the financial future of Django and support its future growth
-- Build and strengthen relationships between Django and funding sources
-- Raise awareness of the Django web framework and its community with the broader world
+• Acquire funding to secure the financial future of Django and support its future growth.
+• Build and strengthen relationships between Django and funding sources
+• Foster a supportive and collaborative relationships between Django and professional funding sources.
+• Build support raising awareness of the Django web framework and itsthe community with the broader world.
 
 Delegated responsibilities:
 
-- Contacting, developing and implementing financial sponsorships with funding sources
-- Clarifying and elaborating on the various creative strategies that funding sources of different sizes and types can use to support Django
-- Management of the djangoproject.com website content and other marketing collateral relating to fundraising
+• Contacting, developing and implementing financial sponsorships with funding sources. 
+• Clarify and elaborate a variety of creative strategies that align with various funding sources of different sizes and brands providing more long-term; results driven support for Django.
+• Website project management of the djangoproject.com content and other marketing strategies relating to fundraising.
+• Establish a Master Contact list, develope and utilize financial sponsorships with funding partners.
+• Clarify and elaborate various creative techniques uutilizing simplification and reformatting data to ensure connectivity with funding sources of different sizes and brands that resonate and drives long-term results.
+• Project management for development of djangoproject.com and other marketing tactics relating to fundraising.
 
 
 ## Initial membership
