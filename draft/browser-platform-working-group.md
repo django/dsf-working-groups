@@ -5,11 +5,12 @@
 Ensure Django stays aligned with evolving browser platform standards (ECMAScript/TypeScript and runtimes, DOM/browser APIs, and CSS) so first-party features and community integrations remain current and robust. HTTP and server-side transport concerns are out of scope.
 
 - Propose long-term browser platform adoptions (e.g., importmaps, native ES modules, modern CSS features) via DEPs to the Steering Council/Board.
-- Define and oversee a multi-release roadmap; review frontend feature proposals and ensure alignment with the roadmap.
+- Define and oversee a multi-release roadmap; review frontend feature proposals and ensure alignment with the roadmap. Proposals involving architectural shifts in Python apps, like `staticfiles` or those lacking WG consensus are escalated to the Steering Council.
 - Implement regression-hardening strategies for frontend assets (tests, benchmarks, CI checks) to reduce breakage when browsers or dependencies change.
 - Maintain guidelines and linting rules to flag outdated patterns (e.g., legacy jQuery usage) and recommend supported alternatives.
 - Coordinate with third parties (browser vendors, framework authors, standards bodies) on interoperability concerns and upcoming changes.
-- Oversee third-party frontend dependencies, vendoring decisions, and integrations, including deprecation/removal plans.
+- Oversee third-party frontend dependencies decisions, like vendoring, or adoption of 3rd party libraries/frameworks.
+- Decisions about the frontend build system and test infrastructure.
 - Support Fellows and other WGs (e.g., Security, Website) on frontend matters and incident response.
 - Prepare and support grant applications or SoC proposals tied to roadmap milestones.
 
