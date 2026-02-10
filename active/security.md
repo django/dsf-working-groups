@@ -1,8 +1,10 @@
 # Security Team
 
+The Security Team is the group of people who respond to security reports for the Django framework.
+
 ## Scope of responsibilities
 
-The security team is responsible for [Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/). This includes:
+The Security Team is responsible for [Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/). This includes:
 
 - Reviewing security reports via security@djangoproject.com
 - Evaluating and developing fixes for confirmed security issues
@@ -22,7 +24,6 @@ The security team is responsible for [Django’s security policies](https://docs
   - Carlton Gibson
   - Jacob Walls
   - Jake Howard
-  - James Bennett
   - Mariusz Felisiak
   - Markus Holtermann
   - Michael Manfre
@@ -37,7 +38,7 @@ Note: The DSF Board President has access to the security mailing list, but does 
 ### Role definitions
 
 - Chair / Co-Chair: Responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities.
-- Report triagers: These team members are responsible for acknowleding and triaging reports initially to determine likelyhood of security concern and severity.
+- Report triagers: These team members are responsible for acknowledging and triaging reports initially to determine likelihood of security concern and severity.
  
 ## Future membership
 
