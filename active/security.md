@@ -13,7 +13,7 @@ The Security Team is responsible for [Django’s security policies](https://docs
 - Communicating with the public about security releases
 - Communicating with operating-system vendors and other distributors of Django
 
-## Initial membership
+## Membership
 
 - Chair:
 - Co-Chair:
@@ -33,12 +33,34 @@ The Security Team is responsible for [Django’s security policies](https://docs
   - Simon Charette
  
 Note: The DSF Board President has access to the security mailing list, but does not otherwise participate in the team’s activities. This is mentioned for the sake of transparency.
+
+Every member of the team is encouraged to participate in all aspects of the team, including reviewing security reports, developing fixes and communicating with reporters. The expectations for all team members are as follows:
+
+- Participate in the process for at least one security report a year
  
 ### Role definitions
 
-- Chair / Co-Chair: Responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities.
-- Report triagers: These team members are responsible for acknowledging and triaging reports initially to determine likelihood of security concern and severity.
- 
+There are specific roles that have a higher level of expectations:
+
+- **Chair / Co-Chair:** Responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities. The Chair and Co-Chair roles should be re-evaluated annually by the team.
+- **Report Triagers:** Acknowledge and triage initial reports and communicate with reporters.
+
+#### Report Triager
+
+These team members are responsible for acknowledging and triaging reports initially to determine likelihood of security concern and severity. As this is a volunteer role, the Fellows will support the triagers and when necessary, handle the initial triaging.
+
+Every member can adopt and step back as a Report Triager as their schedule allows.
+
+The responsibilities of a Report Triager are as follows:
+
+- Acknowledge incoming reports
+- Initial triage
+- Request help from experts if necessary
+- Complete triage
+- Facilitate hand-off with team member to own the report through resolution
+- For invalid reports, the following are included:
+    - Communicate with reporter
+
 ## Future membership
 
 The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.
