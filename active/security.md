@@ -21,7 +21,6 @@ The Security Team is responsible for [Django’s security policies](https://docs
 - Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Carlton Gibson
 - Other members:
   - Adam Johnson
-  - Carlton Gibson
   - Jacob Walls
   - Jake Howard
   - Mariusz Felisiak
