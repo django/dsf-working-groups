@@ -53,13 +53,12 @@ Every member can adopt and step back as a Report Triager as their schedule allow
 
 The responsibilities of a Report Triager are as follows:
 
-- Acknowledge incoming reports
-- Initial triage
-- Request help from experts if necessary
-- Complete triage
-- Facilitate hand-off with team member to own the report through resolution
-- For invalid reports, the following are included:
-    - Communicate with reporter
+- Acknowledge report received
+- Initial assessment
+- Request help from team/experts if necessary
+- Progress to resolution
+    - For valid reports, hand-off to team member to own the report
+    - For invalid reports, communicate with reporter
 
 ## Future membership
 
