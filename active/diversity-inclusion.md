@@ -11,7 +11,7 @@ The Working Group will pursue this goal in several ways including:
 - Communicating and collecting feedback from the Django community to understand how the DSF can better serve and grow a diverse membership.
 - Measuring, evaluating, and sharing the DSF’s progress towards its diversity initiatives on a regular basis.
 - The Working Group reserves the right to consult with outside experts.
-- Serving as the Djangonaut Space other mentorship programs D&I liaison.
+- Supporting mentorship programs like Djangonaut Space to achieve diversity and inclusion goals.
 - Performing Audit or report on D&I of Django events and contributors. 
 - Supporting the organisation of regional Django related events around the world in line with the group's purpose.
 - Providing support to the DSF board of directors in managing the DSF Membership and the DSF members.
@@ -25,7 +25,8 @@ The Working Group will pursue this goal in several ways including:
 - Other members:
    - Eli Rosselli
    - Priya Pahwa
-   - TBD 
+   - Brayan Mwanyumba
+   - 
 
 ## Future membership
 
