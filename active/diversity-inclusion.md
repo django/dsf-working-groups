@@ -2,7 +2,7 @@
 
 ## Scope of responsibilities
 
-The working group's purpose is to support the DSF in supporting and facilitating the growth of a diverse and international community of Django programmers, and especially to make sure that the voices of Underrepresented groups are heard in order to foster a more inclusive and diverse Django community.
+The working group's purpose is to support and facilitate the growth of a diverse and international community of Django programmers, and especially to make sure that the voices of Underrepresented groups are heard in order to foster a more inclusive and diverse Django community.
 Our primary goal is to increase participation from underrepresented groups, create an inclusive community environment, and promote diverse leadership within the Django project. We also aim to provide guidance to the DSF Board of Directors in line with this mandate. 
 The Working Group will pursue this goal in several ways including:
 
