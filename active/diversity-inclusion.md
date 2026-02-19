@@ -7,7 +7,7 @@ Our primary goal is to increase participation from underrepresented groups, crea
 The Working Group will pursue this goal in several ways including:
 
 - Recruiting globally representative Working Group members that will advocate for and provide insights on behalf of their local communities. Our members will, where possible, include representatives from each continent/ region.
-- Discussing policy, initiatives, grant proposals and membership to recommend to the DSF Board of Directors in line with the group’s purpose.
+- Recommending policy, initiatives, grant proposals and membership to the DSF Board of Directors in line with the group’s purpose.
 - Communicating and collecting feedback from the Django community to understand how the DSF can better serve and grow a diverse membership.
 - Measuring, evaluating, and sharing the DSF’s progress towards its diversity initiatives on a regular basis.
 - The Working Group reserves the right to consult with outside experts.
