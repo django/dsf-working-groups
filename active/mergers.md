@@ -11,6 +11,7 @@ Mergers will:
   - The PR is for one of the following scenarios:
       - An accepted ticket.
       - An approved new feature.
+      - A trivial clean-up to such as fixing failing tests or merge mistake.
       - The changes are tests additions.
       - The changes are documentation fixes.
   - The PR is approved by one of the following:
@@ -25,7 +26,7 @@ Mergers will:
 - Request the Steering Council to vote on a decision that fails to reach consensus if a decision is needed.
 - Perform backports of changes merged into the `main` branch to the stable branches following the [backporting policy](https://docs.djangoproject.com/en/dev/internals/release-process/#supported-versions).
 
-## Initial membership
+## Membership
 
 - Chair:
 - Co-Chair:
