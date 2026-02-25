@@ -44,7 +44,6 @@ With regards to Django Software Foundation responsibilities and resources, the m
 - Board Liaison: Tom Carrick (forum: tom, discord: wynne)
 - CoC Liaison: Dan Ryan (discord: dryan77)
 - Other members:
-  - Patryk Bratkowski
   - Natalia Bidart (nessita)
 
 
