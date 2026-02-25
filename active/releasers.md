@@ -8,7 +8,7 @@ Releasers will:
 - Follow the documented [release process](https://docs.djangoproject.com/en/dev/internals/howto-release-django/) and [cadence](https://github.com/django/deps/blob/main/final/0044-clarify-release-process.rst)
 - Coordinate with the [Security Team](./security.md) to schedule security releases
 
-## Initial membership
+## Membership
 
 - Chair:
 - Co-Chair:
