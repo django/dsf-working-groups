@@ -29,7 +29,7 @@ The membership will operate as follows:
 - There should be at least three members at all times
 - There is no upper limit to the number of Releasers
 - Each year, every non-Fellow member will need to reaffirm their membership with the team
-- A releaser needs to be a merger as the release process involves making commits
+- If a member is not on the [Mergers Team](https://www.djangoproject.com/foundation/teams/#mergers-team), they must only use their merge rights for merging administrative commits related to releases
 
 ## Budget
 
