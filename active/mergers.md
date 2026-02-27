@@ -14,10 +14,11 @@ Mergers will:
       - A trivial clean-up to such as fixing failing tests or merge mistake.
       - The changes are tests additions.
       - The changes are documentation fixes.
-  - The PR is approved by one of the following:
+  - The PR is approved by a community member
+  - If the merger has authored the PR, then another approval is required by one of the following:
     - Another Merger.
     - A member of the [Triage & Review team](https://www.djangoproject.com/foundation/teams/#triage-review-team).
-    - A member of the [Security Team](https://www.djangoproject.com/foundation/teams/#security-team).
+    - A member of the [Security Team](https://www.djangoproject.com/foundation/teams/#security-team), but only if the PR is related to a reported vulnerability.
 - Initiate discussion of a minor change in the appropriate venue, and request that other Mergers refrain from merging it while discussion proceeds.
 - Requesting a vote of the steering council regarding any minor change if, in the Merger’s opinion, discussion has failed to reach a consensus.
 - Requesting a vote of the steering council when a major change (significant enough to require the use of the DEP process) reaches one of its implementation milestones and is intended to merge.
