@@ -11,7 +11,7 @@ Mergers will:
   - The PR is for one of the following scenarios:
       - An accepted ticket.
       - An approved new feature.
-      - A trivial clean-up to such as fixing failing tests or merge mistake.
+      - A trivial clean-up such as fixing failing tests or merge mistake.
       - The changes are tests additions.
       - The changes are documentation fixes.
   - The PR is approved by a community member
