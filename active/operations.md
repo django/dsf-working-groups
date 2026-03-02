@@ -62,8 +62,6 @@ From a technical perspective members are expected to have knowledge in the follo
 - Docker/Podman
 - PostgreSQL
 
-
-
 ## Budget
 
 The Ops team manages USD $100,000-plus worth of infrastructure through in-kind donations from DSF sponsors.
