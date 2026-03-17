@@ -22,6 +22,7 @@ Team members will:
   - David Sanders
   - Hasan Ramezani
   - Jacob Walls
+  - JaeHyuck Sa
   - Lily Foote
   - Mariusz Felisiak
   - Natalia Bidart
