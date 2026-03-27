@@ -34,7 +34,7 @@ Team members will:
 
 ## Future membership
 
-Anyone actively engaging in discussions on GitHub, the Forum and/or the new-features repository will be eligible to join the Triage and Review Team.
+Anyone actively engaging in discussions on [GitHub](https://github.com/django), the [Forum](https://forum.djangoproject.com/) and/or the [new-features repository](https://github.com/django/new-features) will be eligible to join the Triage and Review Team.
 
 The membership will operate as follows:
 - Any existing member can invite an active contributor to join the team
