@@ -70,7 +70,7 @@ There is no dedicated budget at this time, but funds can be requested from the B
 
 ## Comms
 
-The team communications and can be contacted via the [ops@djangoproject.com](mailto:ops@djangoproject.com) email.
+The team communicates and can be contacted via the [ops@djangoproject.com](mailto:ops@djangoproject.com) email.
 
 The team can be mentioned in the following ways:
 
