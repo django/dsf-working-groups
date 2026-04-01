@@ -20,9 +20,11 @@ Team members will:
 - Other members:
   - Clifford Gama
   - David Sanders
+  - David Smith
   - Hasan Ramezani
   - Jacob Walls
   - JaeHyuck Sa
+  - Lilian Tran
   - Lily Foote
   - Mariusz Felisiak
   - Natalia Bidart
