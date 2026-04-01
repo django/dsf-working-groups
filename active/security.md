@@ -12,6 +12,7 @@ The Security Team is responsible for [Django’s security policies](https://docs
 - Communicating with reporters
 - Communicating with the public about security releases
 - Communicating with operating-system vendors and other distributors of Django
+- Maintaining the DSF's status as a CVE Numbering Authority (CNA) and casting votes (or abstaining) in CNA elections
 
 ## Membership
 
