@@ -21,7 +21,7 @@ Delegated responsibilities:
 
 - Chair: Thibaud Colas
 - Co-Chair: Priya Pahwa
-- Board Liaison: Jacob Kaplan-Moss
+- Board Liaison: Ryan Cheley
 - Other members:
   - Tom Carrick
   - Sarah Abderemane
@@ -29,7 +29,7 @@ Delegated responsibilities:
   - Catherine Holmes
   - Abigail Afi Gbadago
   - Eliana Rosselli
-  - Ryan Cheley
+  - Jacob Kaplan-Moss
   - Jeff Triplett
 
 ## Future membership
