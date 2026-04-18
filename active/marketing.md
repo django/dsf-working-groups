@@ -2,10 +2,17 @@
 
 ## Scope of responsibilities
 
-The working group is responsible for planning and execution of marketing activities, and for advising the DSF Board on strategic decisions related to marketing. The goal of those marketing activities is to:
+The working group is responsible for:
+
+* Planning and execution of marketing activities
+* Proposing new strategies for marketing activities
+* Advising the DSF Board on strategic decisions related to marketing and strategic communication
+
+The goals of those marketing activities are:
 
 - Promote Django: to increase awareness, understanding, and adoption of the framework. And beyond the framework, to strengthen the public narrative about the project, its community, and the Django Software Foundation.
 - Ensure that Django is represented clearly and positively across all channels that are relevant to our audiences (such as developers, organisations, educators, open source contributors, etc).
+- Increasing strategic coherence of activities across our communication channels
 
 The group maintains key components of Django’s marketing strategy in accordance with guidance from the Board and Steering Council, and executes on that strategy autonomously. This includes maintaining:
 
@@ -16,7 +23,7 @@ The group maintains key components of Django’s marketing strategy in accordanc
 
 Delegated responsibilities for the group to work on autonomously:
 
-- Management of the "www" djangoproject.com website content, in particular the Django blog and other content pages, excluding fundraising pages.
+- Management of the "www" djangoproject.com website content, in particular the Django blog and other channels that are closely related to marketing.
 - Management of one-off campaign sites like the [20th birthday site](https://birthday20.djangoproject.com/).
 
 Delegated responsibilities for the group to work on with others:
