@@ -6,7 +6,7 @@ The Security Team is the group of people who respond to security reports for the
 
 The Security Team is responsible for [Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/). This includes:
 
-- Reviewing security reports via security@djangoproject.com
+- Reviewing security reports
 - Evaluating and developing fixes for confirmed security issues
 - Applying, backporting and releasing those fixes as patches and Django releases
 - Communicating with reporters
