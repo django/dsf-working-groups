@@ -108,6 +108,7 @@ The team has discussions in two places:
 
 1. Formal and sensitive discussions on the mailing list: security@djangoproject.com
 2. Informal and team discussions on the DSF Slack in the private channel `#security-team`
+3. Monthly video-conference meetings
 
 ## Reporting
 
