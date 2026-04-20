@@ -8,7 +8,7 @@ The Security Team is responsible for [Django’s security policies](https://docs
 
 - Reviewing security reports
 - Evaluating and developing fixes for confirmed security issues
-- Applying, backporting and releasing those fixes as patches and Django releases
+- Applying and backporting those fixes
 - Communicating with reporters
 - Communicating with the public about security releases
 - Communicating with operating-system vendors and other distributors of Django
