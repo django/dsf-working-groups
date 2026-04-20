@@ -63,9 +63,17 @@ The responsibilities of a Report Triager are as follows:
 
 ## Future membership
 
-The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.
+The team manages its own membership by invitation. If the team needs to make a call for volunteers, it will be posted on the [djangoproject.com blog](https://www.djangoproject.com/weblog/) and the [Django Forum](https://forum.djangoproject.com). 
 
-Members must opt-in to remain on the team on an annual basis. They may also leave for any reason.
+The membership will operate as follows:
+
+- There is no upper limit to the team size
+- The team/WG will vote (50%+1) to approve/deny new member.
+- The team will directly vote on new Chair/Co-Chairs
+- All Django Fellows are automatically added to the Security team
+- A Django Fellow contract termination removes the person from the Security team
+- Each year, every non-Fellow member will need to reaffirm their membership with the team
+- A member can leave for any reason
 
 Members can also be removed by:
 
@@ -83,19 +91,6 @@ Members should possess some knowledge in most of the following topics:
 - Web security
 - Software security
 - Software performance
-
-### How to join
-
-Any person can volunteer to join the security team by submitting a Google Form (TODO: Create link). The team/WG will vote (50%+1) to approve/deny new members; the team/WG will directly vote on new Chair/Co-Chairs.
-
-The application should include the following:
-
-- Why do you want to join the team?
-- What is your history of using Django as a developer?
-- What is your history of contributing to Django?
-- What security experience do you bring that would be helpful to the team?
-
-(TODO: Define cadence of reviewing applications)
 
 ## Budget
 
