@@ -99,7 +99,7 @@ Any changes to the budget may be requested from the board.
 
 ## Comms
 
-The team has discussions in two places:
+The team has discussions in the following places:
 
 1. Formal and sensitive discussions on the mailing list: security@djangoproject.com
 2. Informal and team discussions on the DSF Slack in the private channel `#security-team`
