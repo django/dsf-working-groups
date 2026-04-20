@@ -28,11 +28,11 @@ Current members:
 
 - Chair: Thibaud Colas
 - Co-Chair: David Vaz
-- Board Liaison: Thibaud Colas
+- Board Liaison: Paolo Melchiorre
 - Other members:
   - Theresa Seyram Agbenyegah
   - Benjamin Balder Bach
-  - You?
+  - Çağıl Uluşahin Sönmez
 
 ## Future membership
 
