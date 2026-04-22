@@ -33,6 +33,7 @@ The duties of the working group are:
     - Adam Zapletal
     - Baptiste Mispelon
     - Johanan Oppong Amoateng
+    - Sarah Boyce
 
 ## Future membership
 
