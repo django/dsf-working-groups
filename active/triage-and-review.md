@@ -29,6 +29,7 @@ Team members will:
   - Mariusz Felisiak
   - Natalia Bidart
   - Nick Pope
+  - Raffaella Suardini
   - Sarah Boyce
   - SiHyunLee
   - Simon Charette
