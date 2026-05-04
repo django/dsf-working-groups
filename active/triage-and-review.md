@@ -27,6 +27,7 @@ Team members will:
   - Lilian Tran
   - Lily Foote
   - Mariusz Felisiak
+  - Mike Edmunds
   - Natalia Bidart
   - Nick Pope
   - Raffaella Suardini
