@@ -29,6 +29,7 @@ Changes to Django and related packages proposed by the Performance WG follow the
 - Co-Chair:
 - Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair):
 - Other members:
+  - Farhan Ali Raza 
 
 ## Future membership
 
