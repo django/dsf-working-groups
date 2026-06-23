@@ -23,7 +23,7 @@ Performance-related security issues, such as time-based DoS, are not in scope, a
 
 Changes to Django and related packages proposed by the Performance WG follow the standard processes for changes, such as DEPs or the `new-features` repository. Final say for inclusion remains with the Steering Council, Merger team or Fellows as relevant. The pursuit of performance must never be at the cost of Django's core values, such as stability, ease of use, maintainability and developer experience.
 
-## Initial membership
+## Members
 
 - Chair:
 - Co-Chair:
@@ -48,16 +48,15 @@ To avoid unnecessary member churn, WG members are expected to sit for at least 1
 
 ### How do people who want to join sign up / volunteer / express interest?
 
-A form will be made available in a public space (once created this will be linked to here also).
+If you're intersted in joining the working group, please open a Pull Request to update the members list above.
 
-This form will include questions confirming:
+In your Pull Request, please include:
 
-- their DSF membership
-- why they want to join
-- what experience and skills they bring to the role
-- their capacity over the next ~12 months to fulfil the needs of the WG
+- why you want to join
+- what experience and skills you bring to the role
+- your capacity over the next ~12 months to fulfil the needs of the WG
 
-The form is for expression of interest - there should be no expectation around response time or guarantees of membership. Membership may not be on a first-come-first-served basis. Instead, the WG Chairs are encouraged to fill any gaps within the skill set of the group.
+The pull request is for expression of interest - there should be no expectation around response time or guarantees of membership. Membership may not be on a first-come-first-served basis. Instead, the WG Chairs are encouraged to fill any gaps within the skill set of the group.
 
 ### How will decisions on adding/removing members be handled?
 
