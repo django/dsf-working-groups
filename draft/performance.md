@@ -14,6 +14,7 @@ The duties of the working group are:
 - Provide performance advice to Django package maintainers when requested
 - Mentor new contributors interested in Django performance
 - Advise community members in improving the performance of their Django applications
+- Advise the community in improving the performance of Django applications and packages
 - Run or support performance-focused sessions in DjangoCon sprints
 - Maintenance of the existng `django-asv` benchmark suite
 - Act as an advisory board to the Steering Council when deciding on performance-related enhancements
@@ -33,7 +34,11 @@ Changes to Django and related packages proposed by the Performance WG follow the
 
 ### Who is eligible to join?
 
-Any DSF member is eligible to join. The only requirement is that they bring something to the team. Either experience optimising large codebases, working at large scale with Python or Django, or experience maintaining performance-critical components for / of Django (for example WSGI/ASGI servers, DDT, profilers).
+Any DSF member is eligible to join. The only requirement is that they bring something to the team. For example (but not limited to):
+
+- Experience optimising large codebases or notable packages, especially in Python
+- Working at large scale with Python or Django
+- Experience maintaining performance-critical components for / of Django (for example WSGI/ASGI servers, DDT, profilers)
 
 Because of the nature of performance investigations, both within Django and the wider Python ecosystem, it's expected joining this working group may be in high demand. For that reason, once the working group is at a reasonable capacity it may not be open for new formal members. The form will remain open to act as an expression of interest.
 
