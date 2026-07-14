@@ -23,6 +23,7 @@ Team members will:
   - David Smith
   - Hasan Ramezani
   - Jacob Walls
+  - James Bligh
   - JaeHyuck Sa
   - Lilian Tran
   - Lily Foote
