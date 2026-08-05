@@ -19,6 +19,7 @@ Mergers will:
     - Another Merger.
     - A member of the [Triage & Review team](https://www.djangoproject.com/foundation/teams/#triage-review-team).
     - A member of the [Security Team](https://www.djangoproject.com/foundation/teams/#security-team), but only if the PR is related to a reported vulnerability.
+    - A member of the [Steering Council](https://www.djangoproject.com/foundation/teams/#steering-council).
 - Initiate discussion of a minor change in the appropriate venue, and request that other Mergers refrain from merging it while discussion proceeds.
 - Requesting a vote of the steering council regarding any minor change if, in the Merger’s opinion, discussion has failed to reach a consensus.
 - Requesting a vote of the steering council when a major change (significant enough to require the use of the DEP process) reaches one of its implementation milestones and is intended to merge.
