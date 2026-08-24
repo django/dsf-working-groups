@@ -34,6 +34,7 @@ The duties of the working group are:
     - Baptiste Mispelon
     - Johanan Oppong Amoateng
     - Sarah Boyce
+    - Alex Morega
 
 ## Future membership
 
