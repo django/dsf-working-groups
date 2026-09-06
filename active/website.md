@@ -28,12 +28,16 @@ The duties of the working group are:
     - Tobias McNulty
     - Ron Maravanyika
     - Alex Gómez
-    - Storm Heg
     - Ülgen Sarıkavak
     - Adam Zapletal
-    - Baptiste Mispelon
     - Johanan Oppong Amoateng
     - Sarah Boyce
+
+### Alumni
+
+    - Baptiste Mispelon
+    - Storm Heg
+
 
 ## Future membership
 
@@ -44,7 +48,7 @@ Members must have interest in Django and should be able to work with Django. Mem
 ### Access granting and deployment
 Initial onboarding phase where only Chair and Co-Chair have permissions to merge. After onboarding of 6 months, other group members who have proven their expertise will be granted merge permissions at the discretion of the chair and co-chair. Ops team will retain access, and in case there are site infrastructure issues, would be able to restrict permissions. Process can be reviewed in the future with the ops team if needed.
 
-The deployment of the website will be done via a ping via @django/ops-team on the pull request to deploy the branch.
+The deployment of the website will be done via a coordination with @django/ops-team in the slack to deploy the website.
 
 ### How do people who want to join sign up / volunteer / express interest?
 Individuals can express interest by opening a PR to this working group repository, using a template, adding their names in the list of members.
