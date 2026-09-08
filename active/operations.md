@@ -32,7 +32,6 @@ The Ops team will request Board approval before moving forward any other decisio
 
 - [Optional] Board Liaison (must be an active Board member; may be the same as Chair/Co-Chair):
 - Members:
-    - Baptiste Mispelon
     - Mariusz Felisiak
     - Markus Holtermann
     - Natalia Bidart
