@@ -32,6 +32,7 @@ The duties of the working group are:
     - Adam Zapletal
     - Johanan Oppong Amoateng
     - Sarah Boyce
+    - Alex Morega
 
 ### Alumni
 
