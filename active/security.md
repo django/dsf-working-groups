@@ -21,7 +21,9 @@ The Security Team is responsible for [Django’s security policies](https://docs
 - Co-Chair: Jacob Walls
 - Report triagers:
   - David Smith
+  - Lilian Tran
   - Ken Whitesell
+  - Shai Berger
 - Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Frank Wiles
 - Other members:
   - Adam Johnson
@@ -32,7 +34,6 @@ The Security Team is responsible for [Django’s security policies](https://docs
   - Natalia Bidart
   - Paul McMillan
   - Sarah Boyce
-  - Shai Berger
   - Simon Charette
  
 Note: The DSF Board President has access to the designated reporting channels for governance oversight and legal accountability. This is a longstanding practice, noted here for transparency.
