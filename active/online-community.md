@@ -91,6 +91,8 @@ Suggestions:
 
 Meetings: Quarterly video call meeting on Discord.
 
+Email: moderators@djangoproject.com - used for a common point of contact, but also internally for reporting across platforms. Current membership is the Working Group & Fellows. Moderators and other interested people can ask to join the list.
+
 ## Reporting
 
 How and how often will the WG report back to the board?
