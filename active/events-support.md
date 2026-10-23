@@ -33,6 +33,7 @@ Current members:
   - Theresa Seyram Agbenyegah
   - Benjamin Balder Bach
   - Çağıl Uluşahin Sönmez
+  - Aayush Gauba 
 
 ## Future membership
 
