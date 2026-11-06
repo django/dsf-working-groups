@@ -25,6 +25,7 @@ Team members will:
   - Jacob Walls
   - James Bligh
   - JaeHyuck Sa
+  - Johannes Maron
   - Lilian Tran
   - Lily Foote
   - Mariusz Felisiak
