@@ -51,6 +51,7 @@ There is no budget, but requests can be made to the Board as needs arise.
 
 The team communicates on the following channels:
 
+- [`@Translators` group on the forum](https://forum.djangoproject.com/g/translators)
 - [Django internationalization forum](https://forum.djangoproject.com/c/internals/i18n/14)
 - [Transifex](https://app.transifex.com/django/django/)
 
