@@ -20,7 +20,7 @@ Delegated responsibilities:
 - Steering Council Liaison: Tim Schilling
 - Other members:
     - Sarah Boyce
-    - Varun Kasayap Pentamaraju
+    - Varun Kasyap Pentamaraju
 
 ## Future membership
 
